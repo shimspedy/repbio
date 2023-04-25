@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Julie Collins of Tasmania. Contact information for Julie Collins includes email address, phone number, and mailing address.
 image: julie-collins.jpeg
 video:
-url: /tasmania/julie-collins/
+url: /australia/tasmania/julie-collins/
 weight: 1
 layout: course_home
 

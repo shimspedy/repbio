@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Brian Mitchell of Tasmania. Contact information for Brian Mitchell includes email address, phone number, and mailing address.
 image: brian-mitchell.jpeg
 video:
-url: /tasmania/brian-mitchell/
+url: /australia/tasmania/brian-mitchell/
 weight: 1
 layout: course_home
 

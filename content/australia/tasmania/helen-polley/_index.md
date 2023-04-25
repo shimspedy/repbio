@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Helen Polley of Tasmania. Contact information for Helen Polley includes email address, phone number, and mailing address.
 image: helen-polley.jpeg
 video:
-url: /tasmania/helen-polley/
+url: /australia/tasmania/helen-polley/
 weight: 1
 layout: course_home
 

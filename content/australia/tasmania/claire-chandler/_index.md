@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Claire Chandler of Tasmania. Contact information for Claire Chandler includes email address, phone number, and mailing address.
 image: claire-chandler.jpeg
 video:
-url: /tasmania/claire-chandler/
+url: /australia/tasmania/claire-chandler/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Gavin Pearce of Tasmania. Contact information for Gavin Pearce includes email address, phone number, and mailing address.
 image: gavin-pearce.jpeg
 video:
-url: /tasmania/gavin-pearce/
+url: /australia/tasmania/gavin-pearce/
 weight: 1
 layout: course_home
 

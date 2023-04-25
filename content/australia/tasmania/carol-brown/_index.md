@@ -8,7 +8,7 @@ subheader:
 description: Contact senator The Hon Carol Brown of Tasmania. Contact information for The Hon Carol Brown includes email address, phone number, and mailing address.
 image: carol-brown.jpeg
 video:
-url: /tasmania/carol-brown/
+url: /australia/tasmania/carol-brown/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Anne Urquhart of Tasmania. Contact information for Anne Urquhart includes email address, phone number, and mailing address.
 image: anne-urquhart.jpeg
 video:
-url: /tasmania/anne-urquhart/
+url: /australia/tasmania/anne-urquhart/
 weight: 1
 layout: course_home
 

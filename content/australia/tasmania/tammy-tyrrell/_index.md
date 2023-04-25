@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Tammy Tyrrell of Tasmania. Contact information for Tammy Tyrrell includes email address, phone number, and mailing address.
 image: tammy-tyrrell.jpeg
 video:
-url: /tasmania/tammy-tyrrell/
+url: /australia/tasmania/tammy-tyrrell/
 weight: 1
 layout: course_home
 

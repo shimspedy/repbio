@@ -8,7 +8,7 @@ subheader:
 description: Contact senator The Hon Jonathon Duniam of Tasmania. Contact information for The Hon Jonathon Duniam includes email address, phone number, and mailing address.
 image: jonathon-duniam.jpeg
 video:
-url: /tasmania/jonathon-duniam/
+url: /australia/tasmania/jonathon-duniam/
 weight: 1
 layout: course_home
 

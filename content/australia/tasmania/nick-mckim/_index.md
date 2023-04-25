@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Nick McKim of Tasmania. Contact information for Nick McKim includes email address, phone number, and mailing address.
 image: nick-mckim.jpeg
 video:
-url: /tasmania/nick-mckim/
+url: /australia/tasmania/nick-mckim/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Jacqui Lambie of Tasmania. Contact information for Jacqui Lambie includes email address, phone number, and mailing address.
 image: jacqui-lambie.jpeg
 video:
-url: /tasmania/jacqui-lambie/
+url: /australia/tasmania/jacqui-lambie/
 weight: 1
 layout: course_home
 

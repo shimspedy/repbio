@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Peter Whish-Wilson of Tasmania. Contact information for Peter Whish-Wilson includes email address, phone number, and mailing address.
 image: peter-whish-wilson.jpeg
 video:
-url: /tasmania/peter-whish-wilson/
+url: /australia/tasmania/peter-whish-wilson/
 weight: 1
 layout: course_home
 

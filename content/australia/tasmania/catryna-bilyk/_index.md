@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Catryna Bilyk of Tasmania. Contact information for Catryna Bilyk includes email address, phone number, and mailing address.
 image: catryna-bilyk.jpeg
 video:
-url: /tasmania/catryna-bilyk/
+url: /australia/tasmania/catryna-bilyk/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Wendy Askew of Tasmania. Contact information for Wendy Askew includes email address, phone number, and mailing address.
 image: wendy-askew.jpeg
 video:
-url: /tasmania/wendy-askew/
+url: /australia/tasmania/wendy-askew/
 weight: 1
 layout: course_home
 

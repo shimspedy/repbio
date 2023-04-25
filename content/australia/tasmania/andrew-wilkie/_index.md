@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Andrew Wilkie of Tasmania. Contact information for Andrew Wilkie includes email address, phone number, and mailing address.
 image: andrew-wilkie.jpeg
 video:
-url: /tasmania/andrew-wilkie/
+url: /australia/tasmania/andrew-wilkie/
 weight: 1
 layout: course_home
 

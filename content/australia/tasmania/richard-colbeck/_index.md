@@ -8,7 +8,7 @@ subheader:
 description: Contact senator The Hon Richard Colbeck of Tasmania. Contact information for The Hon Richard Colbeck includes email address, phone number, and mailing address.
 image: richard-colbeck.jpeg
 video:
-url: /tasmania/richard-colbeck/
+url: /australia/tasmania/richard-colbeck/
 weight: 1
 layout: course_home
 

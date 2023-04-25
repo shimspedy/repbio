@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Bridget Archer of Tasmania. Contact information for Bridget Archer includes email address, phone number, and mailing address.
 image: bridget-archer.jpeg
 video:
-url: /tasmania/bridget-archer/
+url: /australia/tasmania/bridget-archer/
 weight: 1
 layout: course_home
 
