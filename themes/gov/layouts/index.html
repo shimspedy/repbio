@@ -1,0 +1,6 @@
+{{ define "main" }}
+{{ partial "markup/site" . }}
+{{.Content}}
+{{ partial "listings/home" . }}
+<script src="{{.Site.BaseURL}}js/map.min.js"></script>
+{{ end }}

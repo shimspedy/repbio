@@ -1,0 +1,34 @@
+
+
+{{ if or (eq .Params.inoffice "current") (eq .Params.inoffice "former") }}
+<title>contact {{.Params.Role}} {{.Params.Name}} of {{.Params.State}}</title>
+{{ else if isset .Params "seo_title" }}
+<title>{{.Params.seo_title}} | aussiegov.com</title>
+{{else}}
+<title>aussiegov.com</title>
+{{- end -}}
+<meta charset="utf-8">
+<meta http-equiv='content-language' content='en-gb'>
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="description" content="{{.Description}}" />
+{{ if or (eq .Params.inoffice "current") (eq .Params.inoffice "former") }}
+<meta name="keywords" content="contact {{.Params.Role}} {{.Params.Name}} of {{.Params.State}},{{.Params.Party}} {{.Params.Role}} {{.Params.Name}},{{.Params.Role}} {{.Params.Name}} Contact Information ">
+{{ else }}
+<meta name="keywords" content="{{.Keywords}}">
+{{- end -}}
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
+{{ template "_internal/schema.html" . }}
+{{ if eq .Params.imagedir "root" }}
+<meta property="og:image" content="{{.Params.imageurl}}" />
+{{ else }}
+<meta property="og:image" content="{{- substr .Site.BaseURL 0 -1 -}}{{- .RelPermalink -}}{{.Params.image}}" />
+{{- end -}}
+{{- if isset .Params "video" -}}<meta property="og:video" content="https://www.youtube.com/watch?v={{.Params.video}}" />{{- end -}}
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"  rel="stylesheet" >
+ <link  rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+<link  rel="stylesheet"  href="{{.Site.BaseURL}}css/style.min.css">
+<link  rel="stylesheet"  href="{{.Site.BaseURL}}css/map.min.css">
+<link  rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">

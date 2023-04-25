@@ -1,0 +1,14 @@
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "person",
+      "name": "{{- .Params.role -}} {{- .Params.name -}}",
+      "description": "{{- .Description -}}",
+      "provider": {
+        "@type": "Organization",
+        "name": "{{- .Params.role -}} of {{- .Params.state -}}",
+        "url": "{{- .Site.BaseURL -}}"
+      }
+    }
+    </script>

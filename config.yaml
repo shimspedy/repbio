@@ -1,0 +1,9 @@
+baseURL : https://aussiegov.com/
+languageCode : en-us
+title : Contact Australian Representatives
+author : john
+taxonomies: ""
+pygmentsstyle: default
+PygmentsCodeFences: true
+disqusShortname: 
+theme: "gov"
