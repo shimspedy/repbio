@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Josh Burns of Victoria. Contact information for Josh Burns includes email address, phone number, and mailing address.
 image: josh-burns.jpeg
 video:
-url: /victoria/josh-burns/
+url:  /australia/victoria/josh-burns/
 weight: 1
 layout: course_home
 

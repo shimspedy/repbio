@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Michael Sukkar of Victoria. Contact information for Michael Sukkar includes email address, phone number, and mailing address.
 image: michael-sukkar.jpeg
 video:
-url: /victoria/michael-sukkar/
+url:  /australia/victoria/michael-sukkar/
 weight: 1
 layout: course_home
 

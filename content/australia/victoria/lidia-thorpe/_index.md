@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Lidia Thorpe of victoria. Contact information for Lidia Thorpe includes email address, phone number, and mailing address.
 image: lidia-thorpe.jpeg
 video:
-url: /victoria/lidia-thorpe/
+url:  /australia/victoria/lidia-thorpe/
 weight: 1
 layout: course_home
 

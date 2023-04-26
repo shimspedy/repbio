@@ -8,4 +8,5 @@ author: john
 url: /australia/
 flag:
 weight: 1
+layout: country
 ---

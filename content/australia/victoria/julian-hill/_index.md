@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Julian Hill of Victoria. Contact information for Julian Hill includes email address, phone number, and mailing address.
 image: julian-hill.jpeg
 video:
-url: /victoria/julian-hill/
+url:  /australia/victoria/julian-hill/
 weight: 1
 layout: course_home
 

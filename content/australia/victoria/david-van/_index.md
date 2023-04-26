@@ -8,7 +8,7 @@ subheader:
 description: Contact senator David Van of victoria. Contact information for David Van includes email address, phone number, and mailing address.
 image: david-van.jpeg
 video:
-url: /victoria/david-van/
+url:  /australia/victoria/david-van/
 weight: 1
 layout: course_home
 

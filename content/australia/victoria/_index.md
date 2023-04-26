@@ -5,7 +5,7 @@ ab: "VIC"
 seo_title: "Contact Victoria Senators and Member of parliament"
 description: Contact Victoria representatives
 author: john
-url: /victoria/
+url:  /australia/victoria/
 flag: seal.png
 weight: 1
 ---

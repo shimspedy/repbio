@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Lisa Chesters of Victoria. Contact information for Lisa Chesters includes email address, phone number, and mailing address.
 image: lisa-chesters.jpeg
 video:
-url: /victoria/lisa-chesters/
+url:  /australia/victoria/lisa-chesters/
 weight: 1
 layout: course_home
 

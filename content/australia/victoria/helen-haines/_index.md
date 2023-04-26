@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Helen Haines of Victoria. Contact information for Helen Haines includes email address, phone number, and mailing address.
 image: helen-haines.jpeg
 video:
-url: /victoria/helen-haines/
+url:  /australia/victoria/helen-haines/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Catherine King of Victoria. Contact information for Catherine King includes email address, phone number, and mailing address.
 image: catherine-king.jpeg
 video:
-url: /victoria/catherine-king/
+url:  /australia/victoria/catherine-king/
 weight: 1
 layout: course_home
 

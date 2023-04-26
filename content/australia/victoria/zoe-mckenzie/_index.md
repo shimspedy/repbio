@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Zoe McKenzie of Victoria. Contact information for Zoe McKenzie includes email address, phone number, and mailing address.
 image: zoe-mckenzie.jpeg
 video:
-url: /victoria/zoe-mckenzie/
+url:  /australia/victoria/zoe-mckenzie/
 weight: 1
 layout: course_home
 

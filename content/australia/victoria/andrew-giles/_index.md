@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Andrew Giles of Victoria. Contact information for Andrew Giles includes email address, phone number, and mailing address.
 image: andrew-giles.jpeg
 video:
-url: /victoria/andrew-giles/
+url:  /australia/victoria/andrew-giles/
 weight: 1
 layout: course_home
 

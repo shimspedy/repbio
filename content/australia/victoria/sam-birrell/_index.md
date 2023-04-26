@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Sam Birrell of Victoria. Contact information for Sam Birrell includes email address, phone number, and mailing address.
 image: sam-birrell.jpeg
 video:
-url: /victoria/sam-birrell/
+url:  /australia/victoria/sam-birrell/
 weight: 1
 layout: course_home
 

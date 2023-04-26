@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Adam Bandt of Victoria. Contact information for Adam Bandt includes email address, phone number, and mailing address.
 image: adam-bandt.jpeg
 video:
-url: /victoria/adam-bandt/
+url:  /australia/victoria/adam-bandt/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Ged Kearney of Victoria. Contact information for Ged Kearney includes email address, phone number, and mailing address.
 image: ged-kearney.jpeg
 video:
-url: /victoria/ged-kearney/
+url:  /australia/victoria/ged-kearney/
 weight: 1
 layout: course_home
 

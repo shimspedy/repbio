@@ -2,6 +2,8 @@
      {{if and (.Layout) (eq .Layout "course_home")}}
           {{ partial "markup/course" . }}
           {{ partial "articles/lesson" . }}
+     {{else if and (.Layout) (eq .Layout "country")}}
+     {{ partial "listings/home" . }}
      {{else}}
      {{ partial "listings/section" . }}
          {{.Content}} 

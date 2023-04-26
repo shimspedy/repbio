@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Russell Broadbent of Victoria. Contact information for Russell Broadbent includes email address, phone number, and mailing address.
 image: russell-broadbent.jpeg
 video:
-url: /victoria/russell-broadbent/
+url:  /australia/victoria/russell-broadbent/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Jana Stewarte of victoria. Contact information for Jana Stewarte includes email address, phone number, and mailing address.
 image: jana-stewart.jpeg
 video:
-url: /victoria/jana-stewart/
+url:  /australia/victoria/jana-stewart/
 weight: 1
 layout: course_home
 

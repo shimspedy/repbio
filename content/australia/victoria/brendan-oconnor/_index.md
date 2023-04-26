@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Brendan O'Connor of Victoria. Contact information for Brendan O'Connor includes email address, phone number, and mailing address.
 image: brendan-oconnor.jpeg
 video:
-url: /victoria/brendan-oconnor/
+url:  /australia/victoria/brendan-oconnor/
 weight: 1
 layout: course_home
 

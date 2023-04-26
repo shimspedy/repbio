@@ -1,6 +1,13 @@
 {{ define "main" }}
 {{ partial "markup/site" . }}
-{{.Content}}
+
+<div class="rephome">
+    {{ partial "listings/rephome" . }}
+</div>
+
+
+
+<!-- {{.Content}}
 {{ partial "listings/home" . }}
-<script src="{{.Site.BaseURL}}js/map.min.js"></script>
+<script src="{{.Site.BaseURL}}js/map.min.js"></script> -->
 {{ end }}

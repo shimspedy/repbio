@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Darren Chester of Victoria. Contact information for Darren Chester includes email address, phone number, and mailing address.
 image: darren-chester.jpeg
 video:
-url: /victoria/darren-chester/
+url:  /australia/victoria/darren-chester/
 weight: 1
 layout: course_home
 

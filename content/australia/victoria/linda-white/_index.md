@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Linda White of victoria. Contact information for Linda White includes email address, phone number, and mailing address.
 image: linda-white.jpeg
 video:
-url: /victoria/linda-white/
+url:  /australia/victoria/linda-white/
 weight: 1
 layout: course_home
 

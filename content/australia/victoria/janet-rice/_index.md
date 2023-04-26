@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Janet Ricee of victoria. Contact information for Janet Ricee includes email address, phone number, and mailing address.
 image: janet-rice.jpeg
 video:
-url: /victoria/janet-rice/
+url:  /australia/victoria/janet-rice/
 weight: 1
 layout: course_home
 

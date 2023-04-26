@@ -8,7 +8,7 @@ subheader:
 description: Contact senator James Patersone of victoria. Contact information for James Patersone includes email address, phone number, and mailing address.
 image: james-paterson.jpeg
 video:
-url: /victoria/james-paterson/
+url:  /australia/victoria/james-paterson/
 weight: 1
 layout: course_home
 

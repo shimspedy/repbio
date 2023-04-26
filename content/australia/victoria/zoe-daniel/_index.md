@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Zoe Daniel of Victoria. Contact information for Zoe Daniel includes email address, phone number, and mailing address.
 image: zoe-daniel.jpeg
 video:
-url: /victoria/zoe-daniel/
+url:  /australia/victoria/zoe-daniel/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Jess Walsh of victoria. Contact information for Jess Walsh includes email address, phone number, and mailing address.
 image: jess-walsh.jpeg
 video:
-url: /victoria/jess-walsh/
+url:  /australia/victoria/jess-walsh/
 weight: 1
 layout: course_home
 

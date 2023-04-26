@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Peter Khalil of Victoria. Contact information for Peter Khalil includes email address, phone number, and mailing address.
 image: peter-khalil.jpeg
 video:
-url: /victoria/peter-khalil/
+url:  /australia/victoria/peter-khalil/
 weight: 1
 layout: course_home
 

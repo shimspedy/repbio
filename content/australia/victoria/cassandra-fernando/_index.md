@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Cassandra Fernando of Victoria. Contact information for Cassandra Fernando includes email address, phone number, and mailing address.
 image: cassandra-fernando.jpeg
 video:
-url: /victoria/cassandra-fernando/
+url:  /australia/victoria/cassandra-fernando/
 weight: 1
 layout: course_home
 

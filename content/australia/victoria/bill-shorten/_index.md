@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Bill Shorten of Victoria. Contact information for Bill Shorten includes email address, phone number, and mailing address.
 image: bill-shorten.jpeg
 video:
-url: /victoria/bill-shorten/
+url:  /australia/victoria/bill-shorten/
 weight: 1
 layout: course_home
 

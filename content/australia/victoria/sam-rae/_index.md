@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Sam Rae of Victoria. Contact information for Sam Rae includes email address, phone number, and mailing address.
 image: sam-rae.jpeg
 video:
-url: /victoria/sam-rae/
+url:  /australia/victoria/sam-rae/
 weight: 1
 layout: course_home
 

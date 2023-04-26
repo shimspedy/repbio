@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Dan Tehan of Victoria. Contact information for Dan Tehan includes email address, phone number, and mailing address.
 image: dan-tehan.jpeg
 video:
-url: /victoria/dan-tehan/
+url:  /australia/victoria/dan-tehan/
 weight: 1
 layout: course_home
 

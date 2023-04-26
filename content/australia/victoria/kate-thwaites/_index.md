@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Kate Thwaites of Victoria. Contact information for Kate Thwaites includes email address, phone number, and mailing address.
 image: kate-thwaites.jpeg
 video:
-url: /victoria/kate-thwaites/
+url:  /australia/victoria/kate-thwaites/
 weight: 1
 layout: course_home
 

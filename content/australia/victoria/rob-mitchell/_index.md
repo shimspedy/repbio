@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Rob Mitchell of Victoria. Contact information for Rob Mitchell includes email address, phone number, and mailing address.
 image: rob-mitchell.jpeg
 video:
-url: /victoria/rob-mitchell/
+url:  /australia/victoria/rob-mitchell/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Hon Bridget McKenzie of victoria. Contact information for Hon Bridget McKenzie includes email address, phone number, and mailing address.
 image: bridget-mckenzie.jpeg
 video:
-url: /victoria/bridget-mckenzie/
+url:  /australia/victoria/bridget-mckenzie/
 weight: 1
 layout: course_home
 

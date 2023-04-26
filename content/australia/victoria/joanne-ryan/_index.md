@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Joanne Ryan of Victoria. Contact information for Joanne Ryan includes email address, phone number, and mailing address.
 image: joanne-ryan.jpeg
 video:
-url: /victoria/joanne-ryan/
+url:  /australia/victoria/joanne-ryan/
 weight: 1
 layout: course_home
 

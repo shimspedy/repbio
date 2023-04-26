@@ -8,7 +8,7 @@ subheader:
 description: Contact senator The Hon Jane Hume of victoria. Contact information for The Hon Jane Hume includes email address, phone number, and mailing address.
 image: jane-hume.jpeg
 video:
-url: /victoria/jane-hume/
+url:  /australia/victoria/jane-hume/
 weight: 1
 layout: course_home
 

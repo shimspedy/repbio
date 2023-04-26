@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Richard Marles of Victoria. Contact information for Richard Marles includes email address, phone number, and mailing address.
 image: richard-marles.jpeg
 video:
-url: /victoria/richard-marles/
+url:  /australia/victoria/richard-marles/
 weight: 1
 layout: course_home
 
