@@ -5,7 +5,7 @@ ab: "TAS"
 seo_title: "Contact tasmania Senators and Member of parliament"
 description: Contact tasmania representatives
 author: john
-url: /tasmania/
+url:  /australia/tasmania/
 flag: seal.png
 weight: 1
 ---
