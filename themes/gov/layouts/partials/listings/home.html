@@ -16,15 +16,3 @@
      {{end}}
 </div>
 {{end}}
-{{define "recursive-course-listing"}}
-     {{if .Sections}}
-          {{range .Sections }}
-               <div class="col">
-                    {{ partial "listings/course-card" . }}
-               </div>
-               {{ template "recursive-course-listing" . }}
-          {{end}}
-
-     {{end}}
-</div>
-{{end}}

@@ -5,8 +5,8 @@ ab: "ASTL"
 seo_title: "Contact Australia Senators and Member of parliament"
 description: Contact Australia representatives
 author: john
-url: /australia/
-flag:
+url: /australia
+flag: flag.png
 weight: 1
 layout: country
 ---
