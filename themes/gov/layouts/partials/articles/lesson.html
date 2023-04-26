@@ -28,89 +28,89 @@
               <h1 itemprop="about" class="flow-text" style="font-size: 18px;">{{.Params.Role}} {{.Params.Name}} Contact
                 information</h1>
               <p class="flow-text" style="font-size: 12px;">Here you will find contact information for {{.Params.Role}}
-                {{.Params.Name}}, including  phone number, and mailing address.</p>
-                <table>
-                  <tbody>
-                    <tr>
-                      <td>Name</td>
-                      <td>{{.Params.Name}}</td>
-                    </tr>
-                    <tr>
-                      <td>Position</td>
-                      <td>{{.Params.Role}}</td>
-                    </tr>
-                    <tr>
-                      <td>State</td>
-                      <td><a href="/{{lower .Params.State | urlize}}">{{.Params.State}}</a></td>
-                    </tr>
-                    <tr>
-                      <td>Party</td>
-                      <td>{{.Params.Party}}</td>
-                    </tr>
-                    {{ if isset .Params "born" }}
-                    <tr>
-                      <td>Born</td>
-                      <td>
-                        {{.Params.Born}}
-                      </td>
-                    </tr>
-                    {{end}}
-                    {{ if isset .Params "elected" }}
-                    <tr>
-                      <td>elected</td>
-                      <td>{{.Params.elected}}</td>
-                    </tr>
-                    {{end}}
-                    {{ if isset .Params "mailing1" }}
-                    <tr>
-                      <td>Mailing Address </td>
-                      <td>{{.Params.Mailing1}} </td>
-                    </tr>
-                    {{end}}
-                    {{ if isset .Params "phone1" }}
-                    <tr>
-                      <td>Phone</td>
-                      <td><a href="tel:{{.Params.Phone1}}" class="" itemprop="telephone">{{.Params.Phone1}}</a>
-                      </td>
-                    </tr>
-                    {{end}}
-                    {{ if isset .Params "mailing2" }}
-                    <tr>
-                      <td>Mailing Address</td>
-                      <td>{{.Params.Mailing2}} </td>
-                    </tr>
-                    {{end}}
-                   
-                    {{ if isset .Params "phone2" }}
-                    <tr>
-                      <td>Phone</td>
-                      <td><a href="tel:{{.Params.Phone2}}" class=""
-                          itemprop="telephone">{{.Params.Phone2}}</a></td>
-                    </tr>
-                    {{end}}
-                    {{ if isset .Params "fax1" }}
-                    <tr>
-                      <td>fax 1</td>
-                      <td>{{.Params.Fax1}}</a></td>
-                    </tr>
-                    {{else}}
-                    <tr>
-                      <td>fax 2</td>
-                      <td>{{.Params.Fax2}}</a></td>
-                    </tr>
-                    {{end}}
-                    <tr>
-                      <td>email</td>
-                      <td><a href="{{.Params.Emailaddress}}" class="" target="_blank"> Email Form</a></td>
-                    </tr>
-                    <tr>
-                      <td>Website</td>
-                      <td><a href="{{.Params.Website}}" class="" target="_blank" itemprop="url">Official Website</a></td>
-                    </tr>
-  
-                  </tbody>
-                </table>
-  
+                {{.Params.Name}}, including phone number, and mailing address.</p>
+              <table>
+                <tbody>
+                  <tr>
+                    <td>Name</td>
+                    <td>{{.Params.Name}}</td>
+                  </tr>
+                  <tr>
+                    <td>Position</td>
+                    <td>{{.Params.Role}}</td>
+                  </tr>
+                  <tr>
+                    <td>State</td>
+                    <td>
+                      {{.Params.State}}</td>
+                  </tr>
+                  <tr>
+                    <td>Party</td>
+                    <td>{{.Params.Party}}</td>
+                  </tr>
+                  {{ if isset .Params "born" }}
+                  <tr>
+                    <td>Born</td>
+                    <td>
+                      {{.Params.Born}}
+                    </td>
+                  </tr>
+                  {{end}}
+                  {{ if isset .Params "elected" }}
+                  <tr>
+                    <td>elected</td>
+                    <td>{{.Params.elected}}</td>
+                  </tr>
+                  {{end}}
+                  {{ if isset .Params "mailing1" }}
+                  <tr>
+                    <td>Mailing Address </td>
+                    <td>{{.Params.Mailing1}} </td>
+                  </tr>
+                  {{end}}
+                  {{ if isset .Params "phone1" }}
+                  <tr>
+                    <td>Phone</td>
+                    <td><a href="tel:{{.Params.Phone1}}" class="" itemprop="telephone">{{.Params.Phone1}}</a>
+                    </td>
+                  </tr>
+                  {{end}}
+                  {{ if isset .Params "mailing2" }}
+                  <tr>
+                    <td>Mailing Address</td>
+                    <td>{{.Params.Mailing2}} </td>
+                  </tr>
+                  {{end}}
+
+                  {{ if isset .Params "phone2" }}
+                  <tr>
+                    <td>Phone</td>
+                    <td><a href="tel:{{.Params.Phone2}}" class="" itemprop="telephone">{{.Params.Phone2}}</a></td>
+                  </tr>
+                  {{end}}
+                  {{ if isset .Params "fax1" }}
+                  <tr>
+                    <td>fax 1</td>
+                    <td>{{.Params.Fax1}}</a></td>
+                  </tr>
+                  {{else}}
+                  <tr>
+                    <td>fax 2</td>
+                    <td>{{.Params.Fax2}}</a></td>
+                  </tr>
+                  {{end}}
+                  <tr>
+                    <td>email</td>
+                    <td><a href="{{.Params.Emailaddress}}" class="" target="_blank"> Email Form</a></td>
+                  </tr>
+                  <tr>
+                    <td>Website</td>
+                    <td><a href="{{.Params.Website}}" class="" target="_blank" itemprop="url">Official Website</a></td>
+                  </tr>
+
+                </tbody>
+              </table>
+
 
             </div>
 
@@ -135,13 +135,14 @@
           {{.Content}}
         </div>
         <div class="adsgoogle">
-          
+
         </div>
 
 
 
-        <div class="card-content card red lighten-4 bio " style="margin: 0px 20px;"> 
-          This page is sourced primarily from official <a href="{{.Params.Website}}"> {{.Params.Role}} {{.Params.Name}}'s </a> Website.
+        <div class="card-content card red lighten-4 bio " style="margin: 0px 20px;">
+          This page is sourced primarily from official <a href="{{.Params.Website}}"> {{.Params.Role}}
+            {{.Params.Name}}'s </a> Website.
           Consider visiting your representative's official website for the latest updates.
         </div>
 
