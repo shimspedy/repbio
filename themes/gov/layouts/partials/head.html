@@ -3,9 +3,9 @@
 {{ if or (eq .Params.inoffice "current") (eq .Params.inoffice "former") }}
 <title>contact {{.Params.Role}} {{.Params.Name}} of {{.Params.State}}</title>
 {{ else if isset .Params "seo_title" }}
-<title>{{.Params.seo_title}} | aussiegov.com</title>
+<title>{{.Params.seo_title}} | repbio.org</title>
 {{else}}
-<title>aussiegov.com</title>
+<title>repbio.org</title>
 {{- end -}}
 <meta charset="utf-8">
 <meta http-equiv='content-language' content='en-gb'>
