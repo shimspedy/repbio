@@ -1,6 +1,6 @@
 ---
 date: 2023-03-02T11:54:12-05:00
-title: "Marion Scrymgour MP"
+title: "Marion Scrymgour"
 seo_title: "contact Representative Marion Scrymgour MP "
 subheader:
      greeting: Contact Representative Ms Marion Scrymgour MP

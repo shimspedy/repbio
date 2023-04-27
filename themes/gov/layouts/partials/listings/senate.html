@@ -7,8 +7,9 @@
        <img  style="max-height: 70px;" src="{{.Params.url}}/{{.Params.image}}" alt="{{.Title}}">
      </div>
      <div class="card-stacked">
-       <div class="card-content">
+       <div class="card-content" style="display: flex; justify-content: space-between;">
          <p class="grey-text text-darken-2">{{.Title}}</p>
+         <span style="font-size: 10px; color: dimgray;">{{.Params.role}}</span>
        </div>
      </div>
  </div>
