@@ -62,6 +62,13 @@
                     <td>{{.Params.elected}}</td>
                   </tr>
                   {{end}}
+                  {{ if isset .Params "enteredoffice" }}
+                  <tr>
+                    <td>elected</td>
+                    <td>{{.Params.enteredoffice}}</td>
+                  </tr>
+                  {{end}}
+
                   {{ if isset .Params "mailing1" }}
                   <tr>
                     <td>Mailing Address </td>
@@ -81,6 +88,22 @@
                     <td>{{.Params.Mailing2}} </td>
                   </tr>
                   {{end}}
+
+                  {{ if isset .Params "phonenumber1" }}
+                  <tr>
+                    <td>Phone</td>
+                    <td><a href="tel:{{.Params.phonenumber1}}" class="" itemprop="telephone">{{.Params.phonenumber1}}</a>
+                    </td>
+                  </tr>
+                  {{end}}
+
+                  {{ if isset .Params "mailingaddress1" }}
+                  <tr>
+                    <td>Mailing Address</td>
+                    <td>{{.Params.mailingaddress1}} </td>
+                  </tr>
+                  {{end}}
+
 
                   {{ if isset .Params "phone2" }}
                   <tr>
