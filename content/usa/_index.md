@@ -8,4 +8,5 @@ author: john
 url: /usa/
 flag: flag.png
 weight: 1
+layout: country
 ---
