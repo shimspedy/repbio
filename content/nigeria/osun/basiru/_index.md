@@ -6,7 +6,7 @@ subheader:
      greeting: Contact  senator Surajudeen Ajibola Basiru 
      description: Contact  senator Surajudeen Ajibola Basiru of osun state. Contact information for  senator Surajudeen Ajibola Basiru includes email address, phone number, and mailing address.
 description: Contact  senator Surajudeen Ajibola Basiru of osun state. Contact information for  senator Surajudeen Ajibola Basiru includes email address, phone number, and mailing address.
-image: basiru.jpeg
+image: basiru.webp
 video: 
 url: /nigeria/osun/basiru/
 weight: 1
