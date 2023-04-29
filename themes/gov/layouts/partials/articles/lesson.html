@@ -12,10 +12,10 @@
 
         {{ if eq .Params.imagedir "root" }}
         <div class="col s12 m6 l5 profile-img"
-          style="background-image:url('{{.Params.imageurl}}');background-repeat: no-repeat;background-size: cover; height: 400px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);">
+          style="background-image:url('{{.Params.imageurl}}');background-repeat: background-repeat: no-repeat; background-size: contain; background-position: center; height: 400px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);">
           {{ else }}
           <div class="col s12 m6 l5 profile-img"
-            style="background-image:url('{{.Params.url}}/{{.Params.image}}');background-repeat: no-repeat;background-size: cover; height: 400px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);">
+            style="background-image:url('{{.Params.url}}/{{.Params.image}}');background-repeat: background-repeat: no-repeat; background-size: contain; background-position: center; height: 400px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);">
             {{end}}
             <div class="senator-image">
               <img src="{{.Params.url}}/{{.Params.image}}" itemprop="image" alt="contact {{.Params.Name}}"
@@ -92,7 +92,8 @@
                   {{ if isset .Params "phonenumber1" }}
                   <tr>
                     <td>Phone</td>
-                    <td><a href="tel:{{.Params.phonenumber1}}" class="" itemprop="telephone">{{.Params.phonenumber1}}</a>
+                    <td><a href="tel:{{.Params.phonenumber1}}" class=""
+                        itemprop="telephone">{{.Params.phonenumber1}}</a>
                     </td>
                   </tr>
                   {{end}}
