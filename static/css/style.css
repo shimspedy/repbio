@@ -79,23 +79,24 @@ article ul:not(.browser-default) li, ul ul, ol ul {
 
 
 .profile-img{
-     border-top: 10px solid #44429a;
+     /* border-top: 10px solid #44429a;
      border-bottom: 10px solid #a9007b;
-     border-left: 5px solid #562e93;
+     border-left: 5px solid #562e93; */
 }
 
 .senator-info {
-     border-right: 5px solid #0f1b547a;
+     /* border-right: 5px solid #0f1b547a;
      border-left: 5px solid #563197;
      border-top: 5px solid #414094;
-     border-bottom: 5px solid #a9007a;
+     border-bottom: 5px solid #a9007a; */
      padding: 5px;
      background: #8fa8d542;
+     color: #FFFF;
  }
  
  td, th {
      padding: 5px;
-     border: 1px solid #e2dfdf;
+     border: 1px solid #e2dfdf00;
      font-size: 13px;
  }
 
@@ -192,3 +193,27 @@ article li::marker, .post-content li::marker {
      border-bottom: 5px solid #a9007a;
 }
 
+
+.bio-profile{
+	background: linear-gradient(-45deg, #0f1b547a, #563197, #414094, #a9007a);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100%;
+     /* border-radius: 5px; */
+     border-right: 5px solid #0f1b547a;
+     border-left: 5px solid #563197;
+     border-top: 5px solid #414094;
+     border-bottom: 5px solid #a9007a;
+     padding: 5px;
+}
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
