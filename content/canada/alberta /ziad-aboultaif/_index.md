@@ -4,7 +4,7 @@ title: " ziad Aboultaif"
 seo_title: "contact representative Ms ziad Aboultaif"
 subheader:
      greeting: Contact representative ziad Aboultaif
-     description: Ziad Aboultaif MP (Arabic: زياد أبو لطيف) is a Canadian politician who has been representing the riding of Edmonton Manning in the House of Commons since the 2015 federal election. He was born on September 10, 1966.
+     description: Ziad Aboultaif MP is a Canadian politician who has been representing the riding of Edmonton Manning in the House of Commons since the 2015 federal election. He was born on September 10, 1966.
 description: Contact representative ziad Aboultaif of alberta. Contact information for ziad Aboultaif includes email address, phone number, and mailing address.
 image: ziad-aboultaif.jpeg
 video:
