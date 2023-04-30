@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/map/css/style.min.css">
+    <link rel="stylesheet" href="/map/css/mapGenerator.css">
+
+    <script type='text/javascript' src='/map/js/nicEdit.js'></script>
+    <script type='text/javascript' src='https://www.gstatic.com/charts/loader.js'></script>
+</head>
+
+<body>
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+    <div class="containt_Wrap">
+        <div class="container dividContainer">
+            <div class="leftPart">
+                <div class="interectRigion">
+                    <h3 class="heading_1">Interactive Regions</h3>
+                    <div class="int_reg_form">
+                        <div class="frm_part_1">
+                            <span>Region Code</span>
+                            <select name="regioncode" id="regioncode">
+                                <option value="BD">BD - Bangladesh</option>
+                                <option value="US">US - United State</option>
+                                <option value="IN">IN - India</option>
+                                <option value="PK">PK - Pakistan</option>
+                            </select>
+                        </div>
+                        <div class="frm_part_1">
+                            <span>Tooltip</span>
+                            <input id="v_tooltip" type="text" />
+                        </div>
+                        <div class="frm_part_1">
+                            <span>Action Value</span>
+                            <input id="action_value" type="text" />
+                        </div>
+                        <div class="frm_part_1">
+                            <span>Color</span>
+                            <input id="v_color" type="color" />
+                        </div>
+                        <div class="frm_part_1">
+                            <button onclick="valueAddFunc()" class="btn_1">Add</button>
+                        </div>
+                    </div>
+
+                    <div id="mceArea" class="mceArea">
+                        <span class="heading_2">Popup / Sideview</span>
+                        <textarea id="popupText"></textarea>
+                    </div>
+                </div>
+                <div id="addedList">
+
+                </div>
+                <div id="mgPreviewWrap">
+                    <div id="mgPreview" class="mgPreview">
+                        <!--<img src="map.png" />--->
+                    </div>
+                    <div id='mgPopupWrap'>
+                        <div id='mgPopup'>
+                            <span onclick="hideMe('mgPopupWrap')" id="msPopupClose">x</span>
+                            <div id="mgPopupContetn"></div>
+                        </div>
+                    </div>
+                </div>
+                <div id="buttonGeneratorWrap">
+                    <div id="seperateCode">
+                        <input onchange="generateTypeOnchange(this)" type="radio" id="onefile" name="fav_language" value="onefile" checked>
+                        <label for="onefile">One file</label>
+                        <input onchange="generateTypeOnchange(this)" type="radio" id="separate" name="fav_language" value="separate">
+                        <label for="separate">Separate file</label>
+                    </div>
+                    <button onclick="generateButton()" class="btn_1">Generate Map</button>
+                    <div class="settingWrap">
+                        <button onclick="getsettingsFunc()">Get Settings</button>
+                        <button onclick="showloadSettingsFunc()">Load Settings</button>
+                    </div>
+                </div>
+            </div>
+            <div class="rightPart">
+                <div class="mapChange_wrap">
+                    <h3 class="heading_1">Map Settings</h3>
+                    <div class="mapChange">
+                        <div class="frm_part_2">
+                            <span>Region</span>
+                            <select id="region" name="region">
+                                <option value="BD">Bangladesh</option>
+                                <option value="US">United State</option>
+                                <option value="IN">India</option>
+                                <option value="PK">Pakistan</option>
+                            </select>
+                        </div>
+                        <div class="frm_part_2">
+                            <span>Mode</span>
+                            <select onchange="modeOnchange(this)" id="mode" name="mode">
+                                <option value="regions">Region</option>
+                                <option value="markers">Markers</option>
+                                <option value="text">Text</option>
+                            </select>
+                        </div>
+                        
+                        <div class="frm_part_2" id="api_wrap"  style="display: none;">
+                            <label>Api </label>
+                            <input id="api" type="text" />
+                        </div>
+
+                        <div id="txt_rang" class="frm_part_3" style="display: none;">
+                            <label>Text Size : </label>
+                            <div class="frm_under_1">
+                                <input onchange="textSizeOnChange(this)" type="range" min="1" max="20" value="10">
+                                <span id="txtsize">10</span>
+                            </div>
+                        </div>
+                        <div class="frm_part_3" id="txtmodeclrWrap">
+                            <label>Text mode color : </label>
+                            <input id="textModColor" type="color" />
+                        </div>
+                        <div id="mrk_rang" class="frm_part_3" style="display: none;">
+                            <label>Marker Size : </label>
+                            <div class="frm_under_1">
+                                <input onchange="markerSizeOnChange(this)" type="range" min="1" max="20" value="10">
+                                <span id="mrksize">10</span>
+                            </div>
+                        </div>
+                        <div class="frm_part_3">
+                            <label for="interactive">Interactive : </label>
+                            <input type="checkbox" id="interactive" name="interactive" value="interactive" checked>
+                        </div>
+                        <div class="frm_part_3">
+                            <label for="tooltip">Tooltip : </label>
+                            <input type="checkbox" id="tooltip" name="tooltip" value="tooltip" checked>
+                        </div>
+                        <div class="frm_part_2">
+                            <label>Action</label>
+                            <select onchange="actionOnchange(this)" id="action" name="action">
+                                <option value="none">None</option>
+                                <option value="simple" selected>Simple Action</option>
+                                <option value="popup">Popup</option>
+                                <!----  <option value="sideview">Side view</option> -->
+                            </select>
+                        </div>
+                        <div class="frm_part_2">
+                            <label>Region Action</label>
+                            <select id="regionAction" name="regionAction">
+                                <option value="urlopen_act">URL open on same window</option>
+                                <option value="urlnewopen_act" selected>URL open on new window</option>
+                                <option value="alert_act">Alert </option>
+                                <option value="custom_act">Custom Action</option>
+                            </select>
+                        </div>
+                        <div class="frm_part_2">
+                            <button onclick="changeMap()" class="btn_1">Change Map</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="settings">
+                    <h3 class="heading_1">Map Style</h3>
+                    <div class="mapSettings">
+                        <div class="frm_part_2">
+                            <span>Background Color</span>
+                            <input id="bgclr_id" onchange="backgoundColorOnChange(this)" type="color" value="#ffffff" />
+                        </div>
+                        <div class="frm_part_2">
+                            <span>Map Border Color</span>
+                            <input id="border_clr_id" onchange="borderColorOnChange(this)" type="color" value="#666666"/>
+                        </div>
+                        <div class="frm_part_2">
+                            <span>Map Border Width</span>
+                            <input id="brd_width_id" onchange="borderWidthOnChange(this)" type="number" />
+                        </div>
+                        <div class="frm_part_2">
+                            <span>Defalut Region Color</span>
+                            <input id="default_color_id" onchange="defaultRegionColorOnChange(this)" type="color" value="#f5f5f5"/>
+                        </div>
+                        <div class="frm_part_2">
+                            <span>Tooltip Text Color</span>
+                            <input id="tltipTxtclr" onchange="tooltipTxtColor(this)" type="color" />
+                        </div>
+                        <div class="frm_part_2">
+                            <span>Width <span>(px)</span></span>
+                            <input id="mapWidth_id" onchange="widhtOnChange(this)" type="number" />
+                        </div>
+                        <div class="frm_part_2">
+                            <span>Height <span>(px)</span></span>
+                            <input id="mapHeight_id" onchange="heightOnChange(this)" type="number" />
+                        </div>
+                        <div class="frm_part_3">
+                            <label for="ratio">Aspect Ratio : </label>
+                            <input onchange="rationOnChange(this)" type="checkbox" id="ratio" name="ratio" value="ratio"
+                                checked>
+                        </div>
+                        
+                        <div class="frm_part_3">
+                            <button onclick="resetSettings()" class="btn_1 resetBtn">Reset Settings</button>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="showScript">
+        <div class="tabWrab">
+            <button onclick="tab('htmlTab')" id="htmlTab" type="button" class="active">HTML</button>
+            <button onclick="tab('jsTab')" id="jsTab" type="button">JS</button>
+            <button onclick="tab('cssTab')" id="cssTab" type="button">CSS</button>
+        </div>
+        <div class="scriptArea">
+            <div id="htmlCodeArea" class="code active">
+                <button onclick="copyScript('html')" type="button" class="copy">copy</button>
+                <p class="script_des"></p>
+                <pre><code  id="htmlCode"></code></pre>
+            </div>
+            <div id="jsCodeArea" class="code">
+                <button onclick="copyScript('js')" type="button" class="copy">copy</button>
+                <p class="script_des">Save the file name as <b>mapgenerator.js</b></p>
+                <pre><code id="jsCode"></code></pre>
+            </div>
+            <div id="cssCodeArea" class="code">
+                <button onclick="copyScript('css')" type="button" class="copy">copy</button>
+                <p class="script_des">Save the file name as <b>mapstyle.css</b></p>
+                <pre><code  id="cssCode"></code></pre>
+            </div>
+        </div>
+        <button onclick="hideMe('showScript')" id="close">x</button>
+        <div class="copied">copied</div>
+    </div>
+
+    <div id="showScriptSingle">
+        <div class="scriptArea">
+            <div id="htmlCodeArea" class="code active">
+                <button onclick="copyScript('singleFile')" type="button" class="copy">copy</button>
+                <pre><code  id="singleFileCode"></code></pre>
+            </div>
+        </div>
+        <button onclick="hideMe('showScriptSingle')" id="close">x</button>
+        <div class="copied">copied</div>
+    </div>
+    
+    <div id="showGetSettings">
+        <div class="scriptArea">
+            <div id="htmlCodeArea" class="code active">
+                <button onclick="copyScript('settings')" type="button" class="copy">copy</button>
+                <pre><code  id="settingsArray"></code></pre>
+            </div>
+        </div>
+        <button onclick="hideMe('showGetSettings')" id="close">x</button>
+        <div class="copied">copied</div>
+    </div>
+
+    <div id="showLoadSettings">
+        <div class="scriptArea">
+            <div id="htmlCodeArea" class="code active">
+                
+                <pre class="loadsettingsWrap">
+                        <textarea id="loadsetings"></textarea>
+                        <button onclick="loadSettings()">Load settings</button>
+                 </pre>
+
+            </div>
+        </div>
+        <button onclick="hideMe('showLoadSettings')" id="close">x</button>
+        <div class="copied">copied</div>
+    </div>
+
+    <div id="loaderWrap" style="display: none;">
+        <div class="loader"></div>
+    </div>
+    
+    <script type='text/javascript' src='/map/js/custom.min.js'></script>
+
+    <script type='text/javascript'>
+
+    </script>
+</body>
+
+</html>
