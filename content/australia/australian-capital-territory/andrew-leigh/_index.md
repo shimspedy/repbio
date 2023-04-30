@@ -5,7 +5,7 @@ seo_title: "contact Representative  Andrew Leigh MP "
 subheader:
      greeting: Contact Representative  Bridget McKenzie
      description: Andrew Keith Leigh, born on 3 August 1972, is a prominent Australian politician, author, lawyer, and former professor of economics at the prestigious Australian National University. 
-description: Contact Representative Hon Bridget McKenzie of Australian Capital Territory. Contact information for Hon Bridget McKenzie includes email address, phone number, and mailing address.
+description: Contact Representative Andrew Leigh of Australian Capital Territory. Contact information for Andrew Leigh includes email address, phone number, and mailing address.
 image: andrew-leigh.jpeg
 video:
 url:  /australia/australian-capital-territory/andrew-leigh/

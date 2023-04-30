@@ -3,9 +3,9 @@ date: 2023-03-02T11:54:12-05:00
 title: " Alicia Payne MP"
 seo_title: "contact representative Ms Alicia Payne MP "
 subheader:
-     greeting: Contact representative Hon Bridget McKenzie
+     greeting: Contact representative Alicia Payne
      description: Alicia Emma Payne, born on 24 July 1982, is an Australian politician currently serving as a member of the House of Representatives since the 2019 federal election. 
-description: Contact representative Hon Bridget McKenzie of Australian Capital Territory. Contact information for Hon Bridget McKenzie includes email address, phone number, and mailing address.
+description: Contact representative Alicia Payne of Australian Capital Territory. Contact information for Alicia Payne includes email address, phone number, and mailing address.
 image: alicia-payne.jpeg
 video:
 url:  /australia/australian-capital-territory/alicia-payne/
