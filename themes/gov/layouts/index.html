@@ -1,6 +1,128 @@
 {{ define "main" }}
 {{ partial "markup/site" . }}
 
+
+
+
+<style>
+    
+    /*pop up window */
+    #mgPopupWrap8691 {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+       /*display: grid;*/ 
+        display: none;
+        left: 0;
+        top: 0;
+    }
+    #mgPopupWrap8691::after {
+        content: "";
+        background: #000;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        opacity: 0.4;
+    }
+    #mgPopup929781 {
+        width: 400px;
+        background: #fff;
+        padding: 15px;
+        margin: auto;
+        position: relative;
+        z-index: 999;
+    }
+    #mgPopup929781 img {
+        max-width: 100%;
+    }
+    #mgPopup929781 ul, #mgPopup929781 ol {
+        padding-left: 35px;
+    }
+    #mgPopup929781 li {
+        padding-bottom: 5px;
+    }
+    #msPopupClose160491 {
+        position: absolute;
+        top: -10px;
+        right: -10px;
+        background: #800000;
+        padding: 5px 10px 7px 10px;
+        border-radius: 50%;
+        font-weight: bold;
+        text-align: center;
+        color: #ffff;
+        font-size: 12px;
+        cursor: pointer;
+    }
+    #mgPopupContetn859131 {
+        max-height: 400px;
+        padding-right: 10px;
+        overflow-y: auto;
+    }
+    
+    </style>
+    
+    <div id="mgPreviewWrap">
+        <div id="mgPreview-929931" class="mgPreview"></div>
+        <div id='mgPopupWrap8691'>
+            <div id='mgPopup929781'>
+                <span onclick="hideMe663151()" id="msPopupClose160491">x</span>
+                <div id="mgPopupContetn859131"></div>
+            </div>
+        </div>
+    </div>
+    <script type='text/javascript' src='https://www.gstatic.com/charts/loader.js'></script>
+    <script>
+    
+    google.charts.load('current', {
+        'packages': ['geochart'],
+        'mapsApiKey': 'false'
+    });
+    google.charts.setOnLoadCallback(drawMarkersMap);
+    function drawMarkersMap() {
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Country');
+        data.addColumn('number', 'Value');
+       data.addColumn({ type: 'string', role: 'tooltip' }); 
+     data.addRows([[{ 'v': 'US', 'f': 'United States' }, 0, 'USA']]);
+data.addRows([[{ 'v': 'MW', 'f': 'Malawi' }, 1, 'MW']]);
+data.addRows([[{ 'v': 'NG', 'f': 'Nigeria' }, 2, 'MW']]);
+data.addRows([[{ 'v': 'AU', 'f': 'Australia' }, 3, 'UA']]);
+data.addRows([[{ 'v': 'CA', 'f': 'Canada' }, 4, 'CA']]);
+
+    var extraValueSet267241 = ['https://repbio.org/usa/','https://repbio.org/malawi/','https://repbio.org/nigeria/','https://repbio.org/australia/','https://repbio.org/canada/']
+    var options = {
+        sizeAxis: {minSize:20,  maxSize: 20},
+        region: 'world',
+        displayMode: 'regions',
+        enableRegionInteractivity: 'true',
+        resolution: 'countries',
+        magnifyingGlass: {enable: true, zoomFactor: 7.5},
+        colorAxis: { minValue: 0, maxValue:4, colors: ['#49497e','#49497e','#49497e','#49497e','#fdb4b4'] },
+        legend: 'none',
+        backgroundColor: {fill: '#ffffff', stroke: '#ff5757', strokeWidth: 9},
+        datalessRegionColor: '#d9d9d9', 
+        height: ,
+        width: undefined,
+        keepAspectRatio: true,
+        tooltip: { textStyle: { color: '#b12b2b' }, showColorCode: false, trigger: 'none' }
+    };
+    var chart = new google.visualization.GeoChart(document.getElementById('mgPreview-929931'));
+    google.visualization.events.addListener(chart, 'select', function () {
+        const selectedMapRow = chart.getSelection()[0].row;
+        const getDataRow = data.getValue(selectedMapRow, 1); 
+         window.open(extraValueSet267241[getDataRow],"_blank")    })
+
+    chart.draw(data, options);
+}
+ const hideMe663151 =()=> { 
+ document.getElementById('mgPopupWrap8691').style.display ="none"; 
+ }
+    </script>
+
+
+
+
 <div class="rephome">
     {{ partial "listings/rephome" . }}
 </div>
