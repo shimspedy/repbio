@@ -217,3 +217,7 @@ article li::marker, .post-content li::marker {
 		background-position: 0% 50%;
 	}
 }
+
+.card .card-content {
+     padding: 12px;
+ }
