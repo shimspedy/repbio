@@ -3,11 +3,10 @@
 
 
 
-
 <style>
     
     /*pop up window */
-    #mgPopupWrap8691 {
+    #mgPopupWrap56911 {
         position: fixed;
         width: 100%;
         height: 100%;
@@ -16,7 +15,7 @@
         left: 0;
         top: 0;
     }
-    #mgPopupWrap8691::after {
+    #mgPopupWrap56911::after {
         content: "";
         background: #000;
         width: 100%;
@@ -24,7 +23,7 @@
         position: fixed;
         opacity: 0.4;
     }
-    #mgPopup929781 {
+    #mgPopup79241 {
         width: 400px;
         background: #fff;
         padding: 15px;
@@ -32,16 +31,16 @@
         position: relative;
         z-index: 999;
     }
-    #mgPopup929781 img {
+    #mgPopup79241 img {
         max-width: 100%;
     }
-    #mgPopup929781 ul, #mgPopup929781 ol {
+    #mgPopup79241 ul, #mgPopup79241 ol {
         padding-left: 35px;
     }
-    #mgPopup929781 li {
+    #mgPopup79241 li {
         padding-bottom: 5px;
     }
-    #msPopupClose160491 {
+    #msPopupClose145061 {
         position: absolute;
         top: -10px;
         right: -10px;
@@ -54,7 +53,7 @@
         font-size: 12px;
         cursor: pointer;
     }
-    #mgPopupContetn859131 {
+    #mgPopupContetn275781 {
         max-height: 400px;
         padding-right: 10px;
         overflow-y: auto;
@@ -63,11 +62,11 @@
     </style>
     
     <div id="mgPreviewWrap">
-        <div id="mgPreview-929931" class="mgPreview"></div>
-        <div id='mgPopupWrap8691'>
-            <div id='mgPopup929781'>
-                <span onclick="hideMe663151()" id="msPopupClose160491">x</span>
-                <div id="mgPopupContetn859131"></div>
+        <div id="mgPreview-133001" class="mgPreview"></div>
+        <div id='mgPopupWrap56911'>
+            <div id='mgPopup79241'>
+                <span onclick="hideMe623981()" id="msPopupClose145061">x</span>
+                <div id="mgPopupContetn275781"></div>
             </div>
         </div>
     </div>
@@ -76,7 +75,7 @@
     
     google.charts.load('current', {
         'packages': ['geochart'],
-        'mapsApiKey': 'false'
+        'mapsApiKey': ''
     });
     google.charts.setOnLoadCallback(drawMarkersMap);
     function drawMarkersMap() {
@@ -84,41 +83,41 @@
         data.addColumn('string', 'Country');
         data.addColumn('number', 'Value');
        data.addColumn({ type: 'string', role: 'tooltip' }); 
-     data.addRows([[{ 'v': 'US', 'f': 'United States' }, 0, 'USA']]);
-data.addRows([[{ 'v': 'MW', 'f': 'Malawi' }, 1, 'MW']]);
-data.addRows([[{ 'v': 'NG', 'f': 'Nigeria' }, 2, 'MW']]);
-data.addRows([[{ 'v': 'AU', 'f': 'Australia' }, 3, 'UA']]);
-data.addRows([[{ 'v': 'CA', 'f': 'Canada' }, 4, 'CA']]);
+     data.addRows([[{ 'v': 'CA', 'f': 'Canada' }, 0, '']]);
+data.addRows([[{ 'v': 'US', 'f': 'United States' }, 1, '']]);
+data.addRows([[{ 'v': 'NG', 'f': 'Nigeria' }, 2, '']]);
+data.addRows([[{ 'v': 'MW', 'f': 'Malawi' }, 3, '']]);
+data.addRows([[{ 'v': 'AU', 'f': 'Australia' }, 4, '']]);
 
-    var extraValueSet267241 = ['/usa/','/malawi/','/nigeria/','/australia/','/canada/']
+    var extraValueSet181831 = ['/canada/','/usa/','/nigeria/','/malawi/','/australia/']
     var options = {
-        sizeAxis: {minSize:20,  maxSize: 20},
+        sizeAxis: {minSize:10,  maxSize: 10},
         region: 'world',
-        displayMode: 'regions',
+        displayMode: 'auto',
         enableRegionInteractivity: 'true',
         resolution: 'countries',
         magnifyingGlass: {enable: true, zoomFactor: 7.5},
-        colorAxis: { minValue: 0, maxValue:4, colors: ['#49497e','#49497e','#49497e','#49497e','#fdb4b4'] },
+        colorAxis: { minValue: 0, maxValue:4, colors: ['#ffadad','#adbbff','#258e36','#246a30','#110b6b'] },
         legend: 'none',
-        backgroundColor: {fill: '#ffffff', stroke: '#ff5757', strokeWidth: 9},
-        datalessRegionColor: '#d9d9d9', 
-     
+        backgroundColor: {fill: '#ffffff', stroke: '#f96262', strokeWidth: 10},
+        datalessRegionColor: '#f5f5f5', 
+        height: 0,
+        width: 0,
         keepAspectRatio: true,
-        tooltip: { textStyle: { color: '#b12b2b' }, showColorCode: false, trigger: 'none' }
+        tooltip: { textStyle: { color: '#0000' }, showColorCode: false, trigger: 'focus' }
     };
-    var chart = new google.visualization.GeoChart(document.getElementById('mgPreview-929931'));
+    var chart = new google.visualization.GeoChart(document.getElementById('mgPreview-133001'));
     google.visualization.events.addListener(chart, 'select', function () {
         const selectedMapRow = chart.getSelection()[0].row;
         const getDataRow = data.getValue(selectedMapRow, 1); 
-         window.open(extraValueSet267241[getDataRow],"_blank")    })
+         window.open(extraValueSet181831[getDataRow],"_self")    })
 
     chart.draw(data, options);
 }
- const hideMe663151 =()=> { 
- document.getElementById('mgPopupWrap8691').style.display ="none"; 
+ const hideMe623981 =()=> { 
+ document.getElementById('mgPopupWrap56911').style.display ="none"; 
  }
     </script>
-
 
 
 
