@@ -4,7 +4,7 @@ title: "Andrew Gee"
 seo_title: "contact representative Andrew Gee "
 subheader:
      greeting: Contact representative Andrew Gee
-     description: Andrew Robert Gee (born 13 September 1968) is an Australian politician. He has held the Division of Calare in the House of Representatives since 2016, representing the National Party until December 2022 when he resigned to sit as an independent over the party's opposition to an Indigenous Voice to Parliament.
+     description: Andrew Robert Gee is an Australian politician, lawyer, and former National Party member.
 description: Contact representative  Andrew Gee of New South Wales. Contact information for  Andrew Gee includes email address, phone number, and mailing address.
 image: andrew-gee.jpeg
 video:
@@ -34,3 +34,9 @@ website: https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265979
 twitter:
 facebook: MikeFreelanderMacarthur
 ---
+
+Andrew Robert Gee is an Australian politician, lawyer, and former National Party member. Born in Wagga Wagga, New South Wales, on September 13th, 1968, Gee spent periods of his childhood living in Nairobi and San Francisco before settling in Maitland, Australia. He attended Newcastle Grammar School and went on to study at the University of Sydney, where he graduated with degrees in Bachelor of Economics and Bachelor of Laws. He began his career as a solicitor before moving to Hong Kong, where he and his brothers licensed consumer products and promotions for international entertainment companies. In 1999, he returned to Australia and began working for Colin Biggers & Paisley, becoming a barrister in 2003. In 2005, Gee moved to Orange with his family, where he established a legal practice in the fields of civil litigation and family law, with offices in Queen's Square Chambers in Orange and Sydney.
+
+Gee has been a member of the National Party since his youth and was elected to the New South Wales Legislative Assembly in 2011, representing the seat of Orange. In 2016, he won the Division of Calare in the House of Representatives, representing the National Party until December 2022 when he resigned over the party's opposition to an Indigenous Voice to Parliament. From 2020 to 2022, Gee held ministerial office in the Morrison government, serving as Minister for Decentralisation and Regional Education (2020–2021), Veterans' Affairs (2021–2022), and Defence Personnel (2021–2022).
+
+Gee has expressed support for fixed parliamentary terms and Indigenous Voice to Parliament. He is a lawyer by profession and has represented both civil litigation and family law cases.

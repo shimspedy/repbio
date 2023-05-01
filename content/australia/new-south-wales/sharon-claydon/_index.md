@@ -4,7 +4,7 @@ title: "Sharon Claydon"
 seo_title: "contact representative Sharon Claydon "
 subheader:
      greeting: Contact representative Sharon Claydon
-     description: Sharon Catherine Claydon (born 26 April 1964) is an Australian politician. She has been a Labor member of the Australian House of Representatives, representing the Division of Newcastle in New South Wales, since September 2013.
+     description: Sharon Catherine Claydon is an Australian politician and has been a Labor member of the Australian House of Representatives, representing the Division of Newcastle in New South Wales, since September 2013.
 description: Contact representative Sharon Claydon of New South Wales. Contact information for Sharon Claydon includes email address, phone number, and mailing address.
 image: sharon-claydon.jpeg
 video:
@@ -31,3 +31,9 @@ website: https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=248181
 twitter: SharonClaydon
 facebook: SharonClaydonforNewcastle
 ---
+
+Sharon Catherine Claydon is an Australian politician and has been a Labor member of the Australian House of Representatives, representing the Division of Newcastle in New South Wales, since September 2013. Claydon was born on 26 April 1964 in Camperdown, New South Wales. Her father Kevin was an Australian Army soldier, and she attended school at Holsworthy Barracks. After leaving school, Claydon enrolled at the University of Sydney as an arts and law student. She left after two years to work as a gardener, jillaroo, and camp cook at Helen Springs Station in the Northern Territory. Claydon returned to New South Wales, where she worked for a disability service provider on the South Coast. She later completed an honours degree majoring in anthropology and a PhD thesis on "contemporary political representation in the Bunuba Aboriginal community", moving to Fitzroy Crossing, Western Australia. She worked in remote Aboriginal communities "for the best part of a decade" before returning to Newcastle.
+
+Claydon joined the ALP in 1999 and worked as an electorate officer for federal MPs Allan Morris and Sharon Grierson. In 2008, she was elected to the Newcastle City Council. She was elected to the House of Representatives at the 2013 federal election. Claydon has been on the speaker's panel since 2015 and was deputy chair of the joint select committee into the National Redress Scheme and the House standing committee on social policy and legal affairs. She is a member of the Labor Left faction.
+
+Claydon is an advocate for victims of institutional abuse, raising awareness that as of early 2021, only 51 people had received compensation payouts out of 2728 applications. In July 2022, following the ALP's victory at the 2022 election, Claydon was chosen as the party's nominee for Deputy Speaker of the House of Representatives. She is currently a patron of the Stockton Historical Society and has served as treasurer of the Newcastle Aboriginal Support Group.

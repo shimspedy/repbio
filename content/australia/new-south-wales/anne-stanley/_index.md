@@ -4,7 +4,7 @@ title: "Anne Stanley"
 seo_title: "contact representative Anne Stanley "
 subheader:
      greeting: Contact representative Anne Stanley
-     description: Anne Maree Stanley (born 6 October 1961) is an Australian politician. She is a member of the Australian Labor Party (ALP) and has served in the House of Representatives since the 2016 federal election, representing the Division of Werriwa. She previously served on the Liverpool City Council from 2008 to 2016.
+     description: Anne Maree Stanley (née Mee) is an Australian politician who has been serving as a Member of Parliament since the 2016 federal election.
 description: Contact representative  Anne Stanley of New South Wales. Contact information for  Anne Stanley includes email address, phone number, and mailing address.
 image: anne-stanley.jpeg
 video:
@@ -31,3 +31,12 @@ website: https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265990
 twitter: AnneWerriwa
 facebook: Anne.Stanley.Werriwa
 ---
+Anne Maree Stanley (née Mee) is an Australian politician who has been serving as a Member of Parliament since the 2016 federal election. She was born on October 6, 1961, in Sydney, Australia. Stanley was raised by her parents, Margaret and William Mee, who were both supporters of the Australian Labor Party (ALP). Her mother worked for the Building Workers' Industrial Union of Australia.
+
+Stanley worked as a bank officer for almost 30 years before joining the ALP in 1996. She became involved in the party's organisational wing and served as a delegate to state and national conferences. She was also the president of the party's Liverpool South branch. Stanley went on to serve on the Liverpool City Council from 2008 to 2016.
+
+In March 2016, Stanley won ALP preselection for the Division of Werriwa and successfully retained the seat for Labor at the 2016 federal election, succeeding the retiring member Laurie Ferguson. She was re-elected at the 2019 election and was subsequently appointed as an opposition whip.
+
+Stanley is married to Larry and has five children. Her twin sons were born 11 weeks premature and spent time in the neonatal intensive care unit at Westmead Hospital.
+
+In the future, if more information becomes available about Anne Maree Stanley's life and career, it can be added to her biography.
