@@ -4,7 +4,7 @@ title: "Tony Pasin"
 seo_title: "contact representative Tony Pasin "
 subheader:
      greeting: Contact Representative Tony Pasin
-     description: Antony "Tony" Pasin (born 1 October 1977) is an Australian politician. He is a member of the Liberal Party of Australia for the House of Representatives seat of Barker since the 2013 election.
+     description: Antony "Tony" Pasin is an Australian politician and member of the Liberal Party of Australia. 
 description: Contact Representatives Tony Pasin of South Australia. Contact information for Tony Pasin includes email address, phone number, and mailing address.
 image: tony-pasin.jpeg
 video:
@@ -34,3 +34,15 @@ website: https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=240756
 twitter:
 facebook: TonyPasinMP
 ---
+
+Antony "Tony" Pasin is an Australian politician and member of the Liberal Party of Australia. He currently holds the seat of Barker in the House of Representatives, which he won in the 2013 federal election.
+
+Pasin was born on 1 October 1977 in Mount Gambier, South Australia. Both of his parents were born in Italy - his mother in San Bartolomeo in Galdo, Benevento and his father in Fontanelle, Veneto.
+
+After completing his education, Pasin earned degrees in Law and Economics from Flinders University. He then served as a councilor in the Mount Gambier City Council from 2003 to 2010.
+
+In 2012, Pasin secured the Liberal Party's preselection for the safe seat of Barker by defeating incumbent Patrick Secker. He went on to win the 2013 federal election comfortably.
+
+During the 2016 federal election campaign, Pasin faced a surprising challenge from Nick Xenophon Team candidate James Stacey. A seat-level opinion poll conducted by robocall revealed that Stacey was leading Pasin 52-48 on the two-candidate vote. However, Pasin ultimately held onto his seat with a reduced margin.
+
+Pasin is affiliated with the National Right faction of the Liberal Party. Despite the close call in the 2016 election, he remains a prominent and respected figure in Australian politics.
