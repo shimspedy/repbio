@@ -9,7 +9,7 @@
         "streetAddress": "{{- .Params.Mailingaddress1 -}} "
       },
       "image": "{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .Site.BaseURL -}}{{- .Params.image -}}{{- end -}}",
-      "jobTitle": "Governor",
+      "jobTitle": "{{- .Params.Role -}}",
       "name": "{{- .Params.name -}}",
       "telephone": "{{- .Params.Phonenumber1 -}}",
       "url": "{{- .Params.Website -}}"
@@ -39,7 +39,7 @@
           },
            "publisher": {
             "@type": "Organization",
-            "name": "contactgovernors.com",
+            "name": "repbio.org",
             "logo": {
               "@type": "ImageObject",
               "url": "{{- .Site.BaseURL -}}slogo.svg",
@@ -47,7 +47,7 @@
               "height": 60
             }
           },
-          "description": "Contact information to {{- .Params.Name -}} Governor, find Governor email, website, phone number, street address.",
+          "description": "Contact information to {{- .Params.Name -}} {{- .Params.Role-}}, find {{- .Params.Role-}} email, website, phone number, street address.",
           "tags" : [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}],
           "keywords" : [ {{ range $index, $keyword := .Params.keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}]
         }
@@ -65,7 +65,7 @@
     "articleSection" : "{{ .Section }}",
     "name" : "{{ .Title }}",
     "headline" : "{{ .Title }}",
-    "description": "Contact information to {{- .Params.Name -}} Governor, find Governor email, website, phone number, street address.",
+    "description": "Contact information to {{- .Params.Name -}} {{- .Params.Role-}}, find {{- .Params.Role-}} email, website, phone number, street address.",
     "inLanguage" : "en-US",
     "author" : "{{ .Params.author }}",
     "creator" : "{{ .Params.author }}",
@@ -91,8 +91,8 @@
   { "@context" : "http://schema.org", 
   "@type" : "Organization", 
   "url" : "{{.Permalink}}", 
-  "name": "Office of  {{- .Params.State -}}  Governor", 
-  "logo": "https://contactgovernors.com/slogo.svg",
+  "name": "Office of  {{- .Params.State -}}  {{- .Params.Role-}}", 
+  "logo": "https://repbio.org/slogo.svg",
   "address": {  
     "@type": "PostalAddress",  
     "addressLocality": "{{- .Params.City -}}, {{- .Params.State -}}",  
@@ -121,7 +121,7 @@
               "https://en.wikipedia.org/{{- .Params.Wiki -}}" ] },  
             "startDate": "{{- .Params.Startdate -}}",  
             "endDate": "present",  
-            "roleName": "Governor" 
+            "roleName": "{{- .Params.Role-}}" 
         } 
   }
 </script>
