@@ -47,7 +47,7 @@
               "height": 60
             }
           },
-          "description": "Contact information to {{- .Params.Name -}} {{- .Params.Role-}}, find {{- .Params.Role-}} email, website, phone number, street address.",
+          "description": "Contact information to {{- .Params.Name -}} {{- .Params.Role -}}, find {{- .Params.Role -}} email, website, phone number, street address.",
           "tags" : [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}],
           "keywords" : [ {{ range $index, $keyword := .Params.keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}]
         }
@@ -65,7 +65,7 @@
     "articleSection" : "{{ .Section }}",
     "name" : "{{ .Title }}",
     "headline" : "{{ .Title }}",
-    "description": "Contact information to {{- .Params.Name -}} {{- .Params.Role-}}, find {{- .Params.Role-}} email, website, phone number, street address.",
+    "description": "Contact information to {{- .Params.Name -}} {{- .Params.Role -}}, find {{- .Params.Role -}} email, website, phone number, street address.",
     "inLanguage" : "en-US",
     "author" : "{{ .Params.author }}",
     "creator" : "{{ .Params.author }}",
@@ -91,7 +91,7 @@
   { "@context" : "http://schema.org", 
   "@type" : "Organization", 
   "url" : "{{.Permalink}}", 
-  "name": "Office of    {{- .Params.State -}}  {{- .Params.Role-}}", 
+  "name": "Office of    {{- .Params.State -}}  {{- .Params.Role -}}", 
   "logo": "https://repbio.org/slogo.svg",
   "address": {  
     "@type": "PostalAddress",  
@@ -121,7 +121,7 @@
               "https://en.wikipedia.org/{{- .Params.Wiki -}}" ] },  
             "startDate": "{{- .Params.Startdate -}}",  
             "endDate": "present",  
-            "roleName": "{{- .Params.Role-}}" 
+            "roleName": "{{- .Params.Role -}}" 
         } 
   }
 </script>
