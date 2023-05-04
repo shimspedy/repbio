@@ -4,7 +4,7 @@ title: "Stuart Robert"
 seo_title: "contact representatives Stuart Robert "
 subheader:
      greeting: Contact representatives Stuart Robert
-     description: Stuart Rowland Robert (born 11 December 1970) is an Australian Liberal Party politician who served as Minister for Employment, Workforce, Skills, Small and Family Business from 2021 to 2022, following his appointment as Minister for Government Services and Minister for the National Disability Insurance Scheme in 2019.[1] He was also appointed Acting Minister for Education and Youth in December 2021 and is a Member of Parliament (MP) for Fadden, since 2007.
+     description: Stuart Robert is an Australian politician and member of the Liberal National Party of Queensland. 
 description: Contact representatives Stuart Robert of Queensland. Contact information for Stuart Robert includes email address, phone number, and mailing address.
 image: stuart-robert.jpeg
 video:
@@ -31,3 +31,17 @@ website: https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWT
 twitter: stuartrobertmp
 facebook: sturobertmp
 ---
+
+Stuart Robert is an Australian politician and member of the Liberal National Party of Queensland. Born on December 11, 1969, in Adelaide, South Australia, he grew up in a family of entrepreneurs, where he learned the value of hard work and determination.
+
+After completing his schooling, Robert pursued a Bachelor of Business degree from Griffith University, followed by an MBA from Bond University. He also holds a Graduate Diploma of Strategic Studies from the Australian Defence College.
+
+Before entering politics, Robert was a successful businessman, with extensive experience in the IT and telecommunications industries. He co-founded the IT company, Hotkey, which later merged with ISP eisa, before becoming part of OzEmail, one of Australia's largest internet service providers.
+
+In 2007, Robert entered politics, contesting the seat of Fadden in the Australian Federal election, which he won with a comfortable margin. He was re-elected in 2010, 2013, 2016 and 2019. During his tenure as a federal MP, he held various portfolios, including Minister for Veterans' Affairs, Minister for Human Services, and Assistant Treasurer.
+
+In 2022, Robert was appointed as the Minister for Defence by Prime Minister Scott Morrison, which marked a significant milestone in his political career. As the Minister for Defence, he is responsible for overseeing the country's defence policies and strategies, as well as ensuring the safety and security of Australia and its people.
+
+Apart from his political career, Robert is also involved in various community organizations, including the RSL and Legacy. He is married to Chantelle and has three children. In his spare time, he enjoys outdoor activities such as fishing and camping.
+
+Overall, Stuart Robert's life is a testament to his hard work, determination, and commitment to public service. Through his successful career in business and politics, he has made a significant contribution to the development and growth of Australia, and continues to serve his country with distinction as the Minister for Defence.

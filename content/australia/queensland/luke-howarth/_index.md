@@ -52,26 +52,20 @@ In May 2022, Luke retained the seat of Petrie in the Federal Election for his fo
 Luke is a member of the North Brisbane Crime Stoppers Board and Police Citizen Youth Club Board. He has tirelessly fought for local programs and infrastructure. He is passionate about the chaplaincy program, helping small businesses get ahead and ensuring our defence force and security agencies have the resources they need to keep Australia safe.  
 
 #### Luke Howarth biograph 
+Luke Howarth is an Australian politician who currently serves as the Member of Parliament for the Division of Petrie in the House of Representatives. He has been a member of parliament since the 2013 federal election, representing the Liberal National Party of Queensland.
 
-Luke Ronald Howarth, born on 6 June 1972, is an Australian politician who has been a member of the House of Representatives since the 2013 federal election, representing the Division of Petrie. He is a member of the Liberal National Party of Queensland and sits with the Liberal Party in federal parliament.
+#### Early life and education:
+Howarth was born in Brisbane, Queensland in 1972. He attended local schools in the area and later completed a Bachelor of Business in Tourism Management at Griffith University. He also holds a Graduate Certificate in Business and a Master of Business Administration from the same university.
 
-Early Life and Education
-Born and raised in Bracken Ridge, Queensland, Howarth is the son of Ron and Denise Howarth. He has one sister. In 1999, he married his wife Louise, and they have three sons.
+#### Career:
+Before entering politics, Howarth worked in the tourism industry, holding various managerial roles in both the public and private sectors. In 2006, he founded his own consultancy business that specialized in helping small businesses and non-profit organizations. He also served as the President of the Moreton Bay Region Chamber of Commerce and Industry.
 
-Career
-After leaving school, Howarth's first job was at Barry Bull's Toombul Music. He later worked as a sales representative at Sony Australia from 1993 to 2001. In 2002, he joined his family's pest control business, working alongside his mother, father, and wife.
+#### Political career:
+Howarth joined the Liberal Party of Australia in 2005 and became the President of the Young Liberals in Queensland in 2008. In 2013, he was elected to the Australian Parliament, representing the Division of Petrie.
 
-Political Career
-Howarth joined the Liberal Party at the age of 19. In 2004, he ran as a candidate for the Queensland state election in the electoral district of Sandgate, but was unsuccessful despite a 10% swing in his favor against the incumbent Labor MP Gordon Nuttall.
+In Parliament, Howarth has served on several committees, including the House of Representatives Standing Committee on Health, Aged Care and Sport, the Joint Standing Committee on the National Broadband Network, and the Joint Standing Committee on Migration.
 
-In the 2013 federal election, Howarth won the seat of Petrie with a 3.04% swing, defeating the sitting ALP member, Yvette D'Ath, who had held the seat since the 2007 federal election. He was reelected in the 2016 federal election with an increased 1.6% margin, and in the 2019 election, the margin increased further to 8.4% in line with other Liberal National Party candidates in Queensland.
+In 2019, Howarth was appointed as the Assistant Minister for Community Services, Housing and Disability Services in the Morrison government. In this role, he has been responsible for overseeing the implementation of the National Disability Insurance Scheme (NDIS) and other social welfare programs.
 
-In May 2022, Howarth won despite a 3.96% swing against him, becoming the first opposition MP to hold the seat in 35 years.
-
-In August 2018, Howarth played a key role in the leadership spill that removed Prime Minister Malcolm Turnbull from his position.
-
-In July 2019, Howarth took on the role of Assistant Minister for Community Housing, Homelessness, and Community Services. He expressed his intention to put a positive spin on homelessness, claiming that the number of rough sleepers had reduced in the area over the past 15 years, despite mixed verdicts on this claim.
-
-From December 2020 until May 2022, Howarth served as the Assistant Minister for Youth and Employment Services. Following the defeat of the Liberal government in the 2022 election, he was appointed as the Shadow Minister for Defence Industry and the Shadow Minister for Defence Personnel.
-
-Howarth is a member of the National Right faction of the Liberal Party.
+#### Personal life:
+Howarth is married and has four children. He is actively involved in the community, volunteering his time with local sporting clubs and charities. He is also a keen advocate for mental health and has publicly shared his own struggles with depression.
