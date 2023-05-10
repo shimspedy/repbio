@@ -9,7 +9,7 @@ description: Contact Governor Sarah Huckabee Sanders of Arkansas. Contact inform
 author: contact governors
 image: sarah-huckabee.jpeg
 video:
- url: /usa/arkansas/sarah-huckabee/
+url: /usa/arkansas/sarah-huckabee/
 weight: 1
 layout: course_home
 

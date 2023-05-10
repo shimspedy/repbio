@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Tony Cárdenas  of California. Contact information for Tony Cárdenas  includes email address, phone number, and mailing address.
 image: cardenas-tony.jpg
 video: 
- url: /usa/california/cardenas-tony/
+url: /usa/california/cardenas-tony/
 weight: 1
 layout: course_home
 

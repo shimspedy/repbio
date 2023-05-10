@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Kevin Mullin of California. Contact information for Kevin Mullin includes email address, phone number, and mailing address.
 image: kevin-mullin.jpeg
 video: 
- url: /usa/california/kevin-mullin/
+url: /usa/california/kevin-mullin/
 weight: 1
 layout: course_home
 

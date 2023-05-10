@@ -8,7 +8,7 @@ subheader:
 description: Contact Congress Connie Conway of California. Contact information for Connie Conway includes email address, phone number, and mailing address.
 image: connie-conway.jpeg
 video: 
- url: /usa/california/connie-conway/
+url: /usa/california/connie-conway/
 weight: 1
 layout: course_home
 

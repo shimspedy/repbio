@@ -9,7 +9,7 @@ description: Contact Governor Asa Hutchinson of Arkansas. Contact information fo
 author: contact governors
 image: asa-hutchinson.jpg
 video:
- url: /usa/arkansas/asa-hutchinson/
+url: /usa/arkansas/asa-hutchinson/
 weight: 1
 layout: course_home
 

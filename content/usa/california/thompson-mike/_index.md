@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Mike Thompson of California. Contact information for Mike Thompson includes email address, phone number, and mailing address.
 image: thompson-mike.jpeg
 video: 
- url: /usa/california/thompson-mike/
+url: /usa/california/thompson-mike/
 weight: 1
 layout: course_home
 

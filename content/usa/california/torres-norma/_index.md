@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Norma J. Torres of California. Contact information for Norma J. Torres includes email address, phone number, and mailing address.
 image: torres-norma.jpeg
 video: 
- url: /usa/california/torres-norma/
+url: /usa/california/torres-norma/
 weight: 1
 layout: course_home
 

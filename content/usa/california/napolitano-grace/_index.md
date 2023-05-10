@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative  Grace F. Napolitano of California. Contact information for Grace F. Napolitano includes email address, phone number, and mailing address.
 image: napolitano-grace.jpeg
 video: 
- url: /usa/california/napolitano-grace/
+url: /usa/california/napolitano-grace/
 weight: 1
 layout: course_home
 

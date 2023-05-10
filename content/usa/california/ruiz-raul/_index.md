@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Raul Ruiz of California. Contact information for Raul Ruiz includes email address, phone number, and mailing address.
 image: ruiz-raul.jpeg
 video: 
- url: /usa/california/ruiz-raul/
+url: /usa/california/ruiz-raul/
 weight: 1
 layout: course_home
 

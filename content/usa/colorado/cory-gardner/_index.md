@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Cory Gardner of Colorado. Contact information for Cory Gardner includes email address, phone number, and mailing address.
 image: cory-gardner.jpg
 video: 
- url: /usa/colorado/cory-gardner/
+url: /usa/colorado/cory-gardner/
 weight: 1
 layout: course_home
 

@@ -5,7 +5,7 @@ ab: "CT"
 seo_title: "Contact Connecticut  Governors And Senators"
 description: Contact Connecticut  Senators
 author: cs
- url: /usa/connecticut/
+url: /usa/connecticut/
 flag: seal.png
 weight: 1
 ---

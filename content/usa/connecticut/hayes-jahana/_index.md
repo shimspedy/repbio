@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Jahana Hayes of Connecticut. Contact information for Jahana Hayes includes email address, phone number, and mailing address.
 image: hayes-jahana.jpeg
 video: 
- url: /usa/connecticut/hayes-jahana/
+url: /usa/connecticut/hayes-jahana/
 weight: 1
 layout: course_home
 

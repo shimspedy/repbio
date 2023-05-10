@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Tom McClintock of California. Contact information for Tom McClintock includes email address, phone number, and mailing address.
 image: mcclintock-tom.jpg
 video: 
- url: /usa/california/mcclintock-tom/
+url: /usa/california/mcclintock-tom/
 weight: 1
 layout: course_home
 

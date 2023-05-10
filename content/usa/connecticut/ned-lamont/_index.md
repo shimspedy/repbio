@@ -9,7 +9,7 @@ description: Contact Governor Ned Lamont of Connecticut. Contact information for
 author: contact governors
 image: ned-lamont.png
 video:
- url: /usa/connecticut/ned-lamont/
+url: /usa/connecticut/ned-lamont/
 weight: 1
 layout: course_home
 
@@ -42,7 +42,6 @@ Governor Ned Lamont is a father, husband, and business owner who has dedicated h
 
 Governor Lamont is fighting every day for Connecticut – growing jobs, cutting taxes, and investing in our schools and our communities – as he leads our state into the future.
 
-
 For the first time in over 80 years, Connecticut has a Governor who began his career as a business owner and job creator. Governor Ned Lamont started a family and launched a successful business in our state because he believes in Connecticut: hard work, dedication, and neighbors looking out for one another.
 
 Now, as Governor, he’s rolling out the welcome mat for more families and even more businesses to call Connecticut home — with lower taxes, more job opportunities, stronger schools, historic budget surpluses, and a pandemic recovery that is unmatched nationally.
@@ -53,7 +52,7 @@ Ever since he started his career, Governor Lamont has focused on giving back to 
 
 Governor Lamont is a graduate of Harvard College and earned a Master of Business Administration from the Yale School of Management. He’s been married to his wife, Annie, for nearly 40 years, and they have three children: Emily, Lindsay, and Teddy.
 
-## WHAT NED'S DONE
+#### WHAT NED'S DONE
 
 For the past four years, Governor Lamont has been the strong leader Connecticut needs during challenging times.
 
@@ -62,6 +61,7 @@ He put partisanship aside and brought Republicans and Democrats together to get 
 Connecticut is going strong — and, with Governor Ned Lamont leading the way, we’ll keep getting stronger.
 
 #### Cutting Taxes
+
 Connecticut families needed relief, and Governor Lamont stepped up to the plate:
 
 - Signed the largest tax relief package in state history — $660 million — while still ensuring a historic surplus
@@ -73,6 +73,7 @@ Connecticut families needed relief, and Governor Lamont stepped up to the plate:
 - Saving pension filers an extra $40 million per year by exempting all pension and annuity earnings from the income tax.
 
 #### Balancing the Budget
+
 When Governor Lamont took office, he faced a nearly $4 billion deficit, and the state hadn’t operated a surplus in decades. He instituted a “debt diet” and turned things around:
 
 - Eliminated the budget deficit he inherited, without raising taxes
@@ -81,6 +82,7 @@ When Governor Lamont took office, he faced a nearly $4 billion deficit, and the 
 - Honored our commitment to state employees by making full payment to the pension fund and paying down debt, so $400 million a year can instead go toward schools and tax cuts
 
 #### Job Creation, Workforce Development and Infrastructure Investment
+
 As a successful entrepreneur and job creator, Governor Lamont knows how to help businesses — especially small ones — create opportunities for Connecticut residents. Here’s how he’s delivered:
 
 - 7 consecutive months of job growth in 2022 and record low unemployment
@@ -97,12 +99,14 @@ As a successful entrepreneur and job creator, Governor Lamont knows how to help 
 Ensured better-paying jobs by raising the minimum wage to $15 an hour
 
 GOVERNOR LAMONT HAS HELD THE LINE ON WASTEFUL SPENDING THAT MARKED PREVIOUS ADMINISTRATIONS WHILE FUNDING VITAL PROJECTS IN EVERY CORNER OF THE STATE:
+
 - Cutting travel times with rail upgrades
 - Repairing local bridges
 - Ensuring clean drinking water
 - Upgrading transportation systems and supporting pedestrian and bicycle safety
 
 #### Making Connecticut More Affordable
+
 Governor Lamont has made Connecticut a better place to live and raise family by making the state more affordable for working and middle class families.
 
 - Implemented cap on the car tax, providing a total of about $100 million on relief spread across 75 towns.
@@ -115,19 +119,21 @@ Governor Lamont has made Connecticut a better place to live and raise family by 
 - Cut gasoline tax by 25 cents per gallon and is providing free bus service when people needed it most
 
 #### Government Efficiency and Modernization
+
 Governor Lamont has made state government more efficient – saving Connecticut families time and saving taxpayers money.
 
 - Governor Lamont updated how the DMV works and cut wait times significantly by making it easier to handle license renewals, update registrations and other basic business online.
 - Launched a new online state tax filing system which improved the customer’s experience and delivered additional, user-friendly features.
 - Launched the portal business.ct.gov which allows entrepreneurs to easily find information required to start a business
-     - 17,683 new business checklists have been created since Business.CT.gov went live.
-     - 56% of all new business checklists on Business.CT.gov have been created by women or minority entrepreneurs
+  - 17,683 new business checklists have been created since Business.CT.gov went live.
+  - 56% of all new business checklists on Business.CT.gov have been created by women or minority entrepreneurs
 - Signed bill modernizing state government operations
-     - Gives agencies more flexibility to use modern digital tools.
-     - Gives small and minority owned businesses better access to work with state government.
+  - Gives agencies more flexibility to use modern digital tools.
+  - Gives small and minority owned businesses better access to work with state government.
 - Allowed pet owners to renew their licenses online, eliminating time-consuming trips to town offices
 
 #### Improving Education and Reopening Schools
+
 Governor Lamont has supported educators and students; and led the effort to keep schools open while keeping students and teachers safe:
 
 - Connecticut’s K-12 system ranked #3 in the nation by Education Week in 2020, and students led the country on AP exam performance in 2021
@@ -137,6 +143,7 @@ Governor Lamont has supported educators and students; and led the effort to keep
 - Invested $11 million in funding for summer programs
 
 #### Strengthening Public Safety
+
 Under Governor Lamont, Connecticut has been one of the safest states in the country, with the fourth-lowest violent crime rate. In addition to prioritizing public safety in our communities, Governor Lamont has:
 
 - Connecticut trained more state & municipal police in 2021 than any year prior – including the most diverse class of state police in state history
@@ -145,14 +152,13 @@ Under Governor Lamont, Connecticut has been one of the safest states in the coun
 - Provided millions in funding for public safety programs – including unexpected pandemic-related costs, forensic labs, and address auto theft
 - Funded behavioral health and juvenile support programs to prevent crime, support our youth and provide them with future opportunities
 - Has taken bold steps to tackle gun violence
-     - Strengthened Connecticut’s Red Flag Laws, empowering law enforcement to keep guns away from people who pose an extreme risk to themselves or others.
-     - Signed Ethan’s Law which requires gun owners to safely store firearms and ammunition in a manner that prevents minors from accessing them.
-     - Worked with regional governors to establish cross-border anti-gun programs
-     - Signed a law banning untraceable “ghost guns”
-
-
+  - Strengthened Connecticut’s Red Flag Laws, empowering law enforcement to keep guns away from people who pose an extreme risk to themselves or others.
+  - Signed Ethan’s Law which requires gun owners to safely store firearms and ammunition in a manner that prevents minors from accessing them.
+  - Worked with regional governors to establish cross-border anti-gun programs
+  - Signed a law banning untraceable “ghost guns”
 
 #### Supporting Families
+
 Governor Lamont has made sure that Connecticut is a great place to start a family — which helps attract new businesses and a dynamic workforce — and is fighting for justice and equality.
 
 - Passed a historic Paid Family Medical Leave program that took effect in December 2021, guaranteeing up to 12 weeks of paid time off to care for a newborn child, a sick family member, or oneself in the event of a health issue — supporting working people and businesses at the same time by improving retention and productivity
@@ -168,6 +174,7 @@ Governor Lamont has made sure that Connecticut is a great place to start a famil
 - Worked with the Attorney General to settle the Sheff v O’Neill case and to end 33 years of litigation and court oversight over how to redress racial, ethnic and economic segregation in the schools of Hartford and its suburbs.
 
 #### Combating Climate Change and Promoting Energy Efficiency
+
 Connecticut families shouldn’t have to worry that the air they breathe will make them sick, or that we won’t address climate change before it’s too late. With Governor Lamont’s leadership, our state is a national model for fighting back against climate change, ensuring clean air, and transitioning to a clean energy future:
 
 - Codified a plan to move Connecticut to a carbon-free energy grid by 2040

@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Diana DeGette of Colorado. Contact information for Diana DeGette includes email address, phone number, and mailing address.
 image: degette-diana.jpeg
 video: 
- url: /usa/colorado/degette-diana/
+url: /usa/colorado/degette-diana/
 weight: 1
 layout: course_home
 
@@ -66,6 +66,7 @@ As a member of the House Natural Resources Committee, DeGette is focused on enac
 In 2007, DeGette successfully brokered a deal to enact tough new standards to protect Americans from lead in drinking water. She also played a key role in the effort to ban phthalates, a dangerous chemical which is harmful to children. And, as chair of the subcommittee that's responsible for overseeing the FDA, DeGette is leading the charge to protect our nation's food supply.
 
 #### Fighting to protect civil rights…
+
 DeGette's passion for protecting people's rights is what led her to pursue public office. Prior to being elected to Congress, DeGette was an attorney in the Denver area where she focused on workers' rights. While in office, DeGette has worked tirelessly to protect the rights of women, immigrants and minorities in Colorado and across the country.
 
 In 2019, DeGette convened the first House oversight hearing on the Trump administration's controversial policy of separating families at the border and continues to fight for the better treatment of immigrants and their families.
@@ -73,6 +74,7 @@ In 2019, DeGette convened the first House oversight hearing on the Trump adminis
 In recognition of her outstanding commitment to protecting civil rights, the ACLU of Colorado awarded DeGette with its Carle Whitehead Memorial Award, which is given to those who make extraordinary contributions to protecting civil rights and furthering civil liberties in Colorado. DeGette is also the recipient of the NEWSED Community Development Corporation's Civil Rights Award for her work to protect the rights of her fellow Coloradans.
 
 #### A champion of bipartisanship…
+
 Even in times of intense political division, DeGette has shown an ability to reach across the aisle to get results for the people of her district.
 
 In 2017, DeGette was honored by the Javits Foundation for her renowned commitment to cooperation and collaboration across party lines.
@@ -80,6 +82,7 @@ In 2017, DeGette was honored by the Javits Foundation for her renowned commitmen
 In 2018, the U.S. Association of Former Members of Congress awarded DeGette with its Statesmanship award for her efforts to pass legislation in a collaborative and bipartisan manner.
 
 #### A lifelong Denverite…
+
 A fourth generation Coloradan and a lifelong Denverite, DeGette is a graduate of Denver's South High School. She earned her B.A, magna cum laude, from Colorado College in 1979; and a J.D. from New York University School of Law in 1982.
 
 Before serving in the U.S. House of Representatives, DeGette served two terms in the Colorado House, including one term as Assistant Minority Leader from 1993-1995.

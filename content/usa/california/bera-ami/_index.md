@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Bera Ami of California. Contact information for Bera Ami includes email address, phone number, and mailing address.
 image: bera-ami.jpeg
 video: 
- url: /usa/california/bera-ami/
+url: /usa/california/bera-ami/
 weight: 1
 layout: course_home
 

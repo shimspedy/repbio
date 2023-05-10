@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative  David G. Valadao of California. Contact information for  David G. Valadao includes email address, phone number, and mailing address.
 image: valadao-david-g.jpeg
 video: 
- url: /usa/california/valadao-david-g/
+url: /usa/california/valadao-david-g/
 weight: 1
 layout: course_home
 
@@ -45,4 +45,4 @@ In 2012, Valadao was elected to represent California’s 21st Congressional Dist
 
 Since he came to Congress, Valadao has established himself as a leader in agriculture and water policy, two important issues for his constituents in CA-21. His time in Congress has been focused on combating the water issues impacting California’s Central Valley. In the 114th Congress, Valadao introduced H.R. 2829, the Western Water and American Food Security Act, to address the regulatory burdens that have largely contributed to the severe drought conditions in Central and Southern California. Valadao aims to ensure Congress does everything in their power to provide relief for the farmers, families, and entire communities suffering from the current water crisis. This Congress, Valadao has introduced H.R. 23, the Gaining Responsibility on Water Act to improve Western water reliability in the United States.
 
-Valadao’s work on the Military Construction and Veterans Affairs Committee has fostered his interest in ensuring our active duty military members have the tools and services they need to defend our nation and keep Americans safe. Valadao worked hard to ensure Naval Air Station Lemoore was named the location for the U.S. Navy’s Pacific Fleet of the F-35C aircraft. Valadao is also dedicated to keeping our promises to our nation’s veterans by making sure those who served our country are taken care of in their retirement years and receive the best quality healthcare available. 
+Valadao’s work on the Military Construction and Veterans Affairs Committee has fostered his interest in ensuring our active duty military members have the tools and services they need to defend our nation and keep Americans safe. Valadao worked hard to ensure Naval Air Station Lemoore was named the location for the U.S. Navy’s Pacific Fleet of the F-35C aircraft. Valadao is also dedicated to keeping our promises to our nation’s veterans by making sure those who served our country are taken care of in their retirement years and receive the best quality healthcare available.

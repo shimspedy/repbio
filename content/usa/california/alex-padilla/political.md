@@ -7,10 +7,10 @@ subheader:
      description: Alejandro Padilla is an American politician and engineer serving as the junior United States senator from California since 2021. A member of the Democratic Party, Padilla served as the 32nd secretary of state of California from 2015 to 2021.
 description: senator Alex Padilla of California political views.  how to  Contact Senator Alex Padilla includes email address, phone number, and mailing address.
 image: alex-padilla.jpg
-image url: /usa/california/alex-padilla/alex-padilla.jpg
+imageurl: /usa/california/alex-padilla/alex-padilla.jpg
 imagedir: root
 video: 
- url: /usa/california/alex-padilla/political
+url: /usa/california/alex-padilla/political
 weight: 3
 layout: course_home
 

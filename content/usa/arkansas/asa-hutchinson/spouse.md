@@ -8,10 +8,10 @@ subheader:
 description: Know more about Governor Asa Hutchinson of Arkansas. A native of Atlanta, Georgia, Mrs. Hutchinson grew up as the second of seven children. She was valedictorian of Fulton High School and attended Bob Jones University in South Carolina, where she met her husband, Governor Asa Hutchinson. After graduation, she taught biology and algebra in Memphis.
 author: contact governors
 image: susan-hutchinson.jpeg
-image url: /usa/arkansas/asa-hutchinson/susan-hutchinson.jpeg
+imageurl: /usa/arkansas/asa-hutchinson/susan-hutchinson.jpeg
 imagedir: root
 video:
- url: /usa/arkansas/asa-hutchinson/spouse
+url: /usa/arkansas/asa-hutchinson/spouse
 weight: 4
 layout: course_home
 

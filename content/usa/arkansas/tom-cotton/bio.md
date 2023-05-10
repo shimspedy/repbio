@@ -7,10 +7,10 @@ subheader:
      description: Thomas Bryant Cotton is an American politician. A member of the Republican Party, he served in the U.S. House of Representatives from 2013 to 2015, and has served as the junior United States Senator from Arkansas since 2015.
 description: senator Tom Cotton of Arkansas biograph.  how to  Contact Senator Tom Cotton includes email address, phone number, and mailing address.
 image: tom-cotton.jpg
-image url: /usa/arkansas/tom-cotton/tom-cotton.jpg
+imageurl: /usa/arkansas/tom-cotton/tom-cotton.jpg
 imagedir: root
 video: 
- url: /usa/arkansas/tom-cotton/bio
+url: /usa/arkansas/tom-cotton/bio
 weight: 2
 layout: course_home
 

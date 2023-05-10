@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Juan Vargas of California. Contact information for Juan Vargas includes email address, phone number, and mailing address.
 image: vargas-juan.jpeg
 video: 
- url: /usa/california/vargas-juan/
+url: /usa/california/vargas-juan/
 weight: 1
 layout: course_home
 
@@ -51,6 +51,6 @@ As a State Senator, Juan worked tirelessly to ensure public safety and protect s
 
 Juan was first elected to the United States Congress in 2012 with over 70 percent of the vote, the highest in both San Diego and Imperial counties.  He represents California’s 51st Congressional District which includes portions of San Diego County, all of Imperial County, and the entire U.S. - Mexico Border in California.  
 
-Currently serving his fourth term in Congress, Juan serves on the Committee on Financial Services and the Committee on Foreign Affairs. 
+Currently serving his fourth term in Congress, Juan serves on the Committee on Financial Services and the Committee on Foreign Affairs.
 
 Juan lives in San Diego with his wife Adrienne, Vice President for University Relations and Development at San Diego State University, and his daughters, Rosa and Helena.

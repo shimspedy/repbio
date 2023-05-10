@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Ed Perlmutter of Colorado. Contact information for Ed Perlmutter includes email address, phone number, and mailing address.
 image: perlmutter-ed.jpeg
 video: 
- url: /usa/colorado/perlmutter-ed/
+url: /usa/colorado/perlmutter-ed/
 weight: 1
 layout: course_home
 
@@ -35,4 +35,3 @@ In 1994, Ed was elected to the Colorado State Senate as the first Democrat to ho
 Ed remains focused on representing the people of the 7th District and creating policies that give people the opportunity to pursue their own American dream. Ed believes working across the aisle to find common ground is critical for democracy and helps to better represent the individuals and families in his district and in Colorado. Specifically, Ed supports job growth by promoting energy independence by working with the Colorado School of Mines, the National Renewable Energy Laboratory (NREL) and other world-class private sector energy businesses as well as expanding Colorado’s role and economic development opportunities in the aerospace industry including the Orion manned space flight program and working on a long-term plan to get humans to Mars in 2033.
 
 In the 117th Congress, Ed is proud to serve on four committees in the House: Financial Services; Science, Space and Technology; Rules; and the Select Committee on the Modernization of Congress. On the Financial Services Committee, Ed serves as Chair of the Consumer Protection and Financial Institutions Subcommittee. Ed is also a member of the New Democrat Coalition which is focused on harnessing American ingenuity and innovation to create new jobs, greater economic prosperity and a safer and more secure future for our country.
-

@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Calvert Ken of California. Contact information for Calvert Ken includes email address, phone number, and mailing address.
 image: calvert-ken.jpeg
 video: 
- url: /usa/california/calvert-ken/
+url: /usa/california/calvert-ken/
 weight: 1
 layout: course_home
 

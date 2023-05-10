@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Doug LaMalfa of California. Contact information for Doug LaMalfa includes email address, phone number, and mailing address.
 image: lamalfa-doug.jpeg
 video: 
- url: /usa/california/lamalfa-doug/
+url: /usa/california/lamalfa-doug/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Alan S. Lowenthal  of California. Contact information for Alan S. Lowenthal  includes email address, phone number, and mailing address.
 image: lowenthal-alan.jpeg
 video: 
- url: /usa/california/lowenthal-alan/
+url: /usa/california/lowenthal-alan/
 weight: 1
 layout: course_home
 

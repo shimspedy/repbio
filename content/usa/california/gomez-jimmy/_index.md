@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative  Jimmy Gomez of California. Contact information for Jimmy Gomez includes email address, phone number, and mailing address.
 image: gomez-jimmy.jpeg
 video: 
- url: /usa/california/gomez-jimmy/
+url: /usa/california/gomez-jimmy/
 weight: 1
 layout: course_home
 

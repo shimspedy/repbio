@@ -8,7 +8,7 @@ subheader:
 description: Contact Congress woman Young Kim of California. Contact information for Young Kim includes email address, phone number, and mailing address.
 image: kim-young.jpeg
 video: 
- url: /usa/california/kim-young/
+url: /usa/california/kim-young/
 weight: 1
 layout: course_home
 

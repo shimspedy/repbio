@@ -8,10 +8,10 @@ subheader:
 description: Know more about Governor Asa Hutchinson of Arkansas. Contact information for Asa Hutchinson includes his email address, phone number, and mailing address.
 author: contact governors
 image: asa-hutchinson.jpg
-image url: /usa/arkansas/asa-hutchinson/asa-hutchinson.jpg
+imageurl: /usa/arkansas/asa-hutchinson/asa-hutchinson.jpg
 imagedir: root
 video:
- url: /usa/arkansas/asa-hutchinson/bio
+url: /usa/arkansas/asa-hutchinson/bio
 weight: 2
 layout: course_home
 
@@ -43,6 +43,7 @@ website:	https://governor.arkansas.gov/
 
 
 #### gov. William Asa Hutchinson  bio
+
 William Asa Hutchinson first gained national attention as the youngest district attorney in the nation in 1982. He went on to represent the Third District of Arkansas in Congress as a Republican from 1997 to 2001, resigning his post on August 6, 2001, to become the director of the Drug Enforcement Administration (DEA). Hutchinson left the DEA to become the Under Secretary for Border and Transportation Security at the Department of Homeland Security, a post he held from 2003 to 2005. In 2005, Hutchinson began actively campaigning for the governorship of Arkansas but lost the race to Mike Beebe in November 2006. However, he was elected governor eight years later in 2014 and reelected in 2018.
 
 Asa Hutchinson was born on December 3, 1950, in Bentonville (Benton County) to John Malcom Sr. and Coral Hutchinson. John Malcom Hutchinson Sr. was a grocer, farmer, and eventually mayor of Sulphur Springs (Benton County). Hutchinson was the youngest of six children. He attended grade school in Gravette (Benton County) and graduated from Springdale High School in 1968. Hutchinson attended Bob Jones University in Greenville, South Carolina, graduating with a BS in accounting in 1972. He went on to receive a JD in 1975 from the University of Arkansas School of Law in Fayetteville (Washington County). While at Bob Jones University, he met his future wife, Susan Burrell. They were married in 1973 and have four children.

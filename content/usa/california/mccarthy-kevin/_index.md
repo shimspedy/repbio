@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Kevin McCarthy  of California. Contact information for Kevin McCarthy  includes email address, phone number, and mailing address.
 image: mccarthy-kevin.jpeg
 video: 
- url: /usa/california/mccarthy-kevin/
+url: /usa/california/mccarthy-kevin/
 weight: 1
 layout: course_home
 

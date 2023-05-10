@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative  Mike Garcia of California. Contact information for Mike Garcia includes email address, phone number, and mailing address.
 image: garcia-mike.jpeg
 video: 
- url: /usa/california/garcia-mike/
+url: /usa/california/garcia-mike/
 weight: 1
 layout: course_home
 

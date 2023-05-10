@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Jay Obernolte  of California. Contact information for Jay Obernolte  includes email address, phone number, and mailing address.
 image: jay-obernolte.jpeg
 video: 
- url: /usa/california/jay-obernolte/
+url: /usa/california/jay-obernolte/
 weight: 1
 layout: course_home
 

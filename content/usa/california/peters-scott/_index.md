@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Scott H. Peters of California. Contact information for Scott H. Peters includes email address, phone number, and mailing address.
 image: peters-scott.jpeg
 video: 
- url: /usa/california/peters-scott/
+url: /usa/california/peters-scott/
 weight: 1
 layout: course_home
 

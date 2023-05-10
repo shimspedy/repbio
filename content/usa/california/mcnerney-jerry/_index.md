@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Jerry McNerney  of California. Contact information for Jerry McNerney  includes email address, phone number, and mailing address.
 image: mcnerney-jerry.jpeg
 video: 
- url: /usa/california/mcnerney-jerry/
+url: /usa/california/mcnerney-jerry/
 weight: 1
 layout: course_home
 

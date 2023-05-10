@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative  Mark Takano of California. Contact information for  Mark Takano includes email address, phone number, and mailing address.
 image: takano-mark.jpeg
 video: 
- url: /usa/california/takano-mark/
+url: /usa/california/takano-mark/
 weight: 1
 layout: course_home
 

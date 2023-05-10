@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative  Jared Huffman of California. Contact information for Jared Huffman includes email address, phone number, and mailing address.
 image: huffman-jared.jpeg
 video: 
- url: /usa/california/huffman-jared/
+url: /usa/california/huffman-jared/
 weight: 1
 layout: course_home
 

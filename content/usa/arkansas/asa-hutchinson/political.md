@@ -8,11 +8,11 @@ subheader:
 description: Asa Hutchinson is the 46th governor of the State of Arkansas. In 2018, he was re-elected with 65% of the vote, having received more votes than any other candidate for governor in the state's history.
 author: contact governors
 image: asa-hutchinson.jpg
-image url: /usa/arkansas/asa-hutchinson/asa-hutchinson.jpg
+imageurl: /usa/arkansas/asa-hutchinson/asa-hutchinson.jpg
 imagedir: root
 video:
 video:
- url: /usa/arkansas/asa-hutchinson/politics
+url: /usa/arkansas/asa-hutchinson/politics
 weight: 2
 layout: course_home
 

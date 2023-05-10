@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative J. French Hill of Arkansas. Contact information for J. French Hill includes email address, phone number, and mailing address.
 image: hill-french.jpeg
 video: 
- url: /usa/arkansas/hill-french/
+url: /usa/arkansas/hill-french/
 weight: 1
 layout: course_home
 

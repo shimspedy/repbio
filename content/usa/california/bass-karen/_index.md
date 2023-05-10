@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Karen Bass of California. Contact information for Karen Bass includes email address, phone number, and mailing address.
 image: bass-karen.jpeg
 video: 
- url: /usa/california/bass-karen/
+url: /usa/california/bass-karen/
 weight: 1
 layout: course_home
 

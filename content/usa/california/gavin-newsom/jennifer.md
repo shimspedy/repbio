@@ -8,10 +8,10 @@ subheader:
 description: Contact First Partner Jennifer Siebel Newsomof California. Contact information for Jennifer Siebel Newsom includes his email address, phone number, and mailing address.
 author: contact governors
 image: jennifer.png
-image url: /usa/california/gavin-newsom/jennifer.png
+imageurl: /usa/california/gavin-newsom/jennifer.png
 imagedir: root
 video:
- url: /usa/california/gavin-newsom/jennifer
+url: /usa/california/gavin-newsom/jennifer
 weight: 2
 layout: course_home
 

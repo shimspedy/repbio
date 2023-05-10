@@ -9,7 +9,7 @@ description: Contact Governor Jared Polis of Colorado. Contact information for J
 author: contact governors
 image: jared-polis.jpg
 video:
- url: /usa/colorado/jared-polis/
+url: /usa/colorado/jared-polis/
 weight: 1
 layout: course_home
 
@@ -50,16 +50,18 @@ Most recently, Governor Polis served as the U.S. representative for Colorado’s
 Governor Polis is a Colorado native, born in 1975. He, his partner Marlon, and their two children are all avid Rockies fans.
 
 #### AFFORDABILITY
+
 Taking immediate action to help people keep their hard-earned money.
 Governor Polis is focused on helping Coloradans save money. By capping the cost of prescription drugs like insulin, cutting taxes for small businesses, and getting rid of state Social Security taxes, this Polis-Primavera administration is just getting started.
 
 - Topping the list of strongest recovering economies in the nation along with a steadily decreasing unemployment rate.
-- Finding more than 100 ways to save Coloradans money, including sending $750 in tax refunds to every taxpayer early, lowering property tax rates for all property owners and delivering tens-of-thousands of affordable housing units over the next 10 years. 
-- Eliminated state taxes on Social Security for seniors and eliminated business personal property tax for thousands of small businesses. 
+- Finding more than 100 ways to save Coloradans money, including sending $750 in tax refunds to every taxpayer early, lowering property tax rates for all property owners and delivering tens-of-thousands of affordable housing units over the next 10 years.
+- Eliminated state taxes on Social Security for seniors and eliminated business personal property tax for thousands of small businesses.
 - Providing all-day kindergarten – and, starting soon, free universal preschool – to families across Colorado, while saving them saving families thousands of dollars per year on pre-k and kindergarten.
 - Capped the cost of insulin, lowered health care premiums for individual market coverage by 24% through the reinsurance program and created the Colorado Option, which is set to drive down insurance costs further starting next year.
 
 #### ENVIRONMENT
+
 Protecting Colorado’s blue skies, water, and open spaces.
 Governor Polis has strengthened the state’s response to wildfires and other disasters while protecting Colorado’s clean air and water and preserving access to our precious public lands.
 
@@ -78,19 +80,21 @@ Governor Polis is improving public safety by expanding background checks on gun 
 - Keeping guns out of the hands of criminals, domestic abusers and those experiencing a mental health crisis by expanding background checks and closing loopholes, enacting red flag laws and ensuring safe storage.
 - Taking on fentanyl trafficking by significantly increasing the criminal penalties for possessing the drug while investing over $50 million in local efforts to catch drug dealers, prevent overdose deaths and provide drug treatment and education campaigns.
 - Expanding innovative intervention programs such as the co-responder program, helping police get back on patrol duties 12% faster so they can focus on fighting crime.
-- Giving our law enforcement officers the tools they need to go after vehicle thieves by creating additional penalties for stealing catalytic converters and cracking down on the secondary market – making it harder to sell stolen cars and parts. 
+- Giving our law enforcement officers the tools they need to go after vehicle thieves by creating additional penalties for stealing catalytic converters and cracking down on the secondary market – making it harder to sell stolen cars and parts.
 
 #### EDUCATION
+
 Setting Colorado kids up for success.
 Governor Polis continues to set Colorado kids up for success by starting free, all-day kindergarten and making record investments in local schools to reduce class size and pay teachers more.
 
 - Providing all-day kindergarten – and, starting soon, free universal preschool – to families across Colorado, while saving them saving families thousands of dollars per year on pre-k and kindergarten.
 - Increasing per pupil funding for Colorado public schools by 18%, lowering class sizes and increasing teacher pay.
 - Supporting and expanding our teaching workforce in all four corners of the state by increasing teacher salaries, offering loan repayment assistance, and increasing professional development opportunities.
-- Froze college tuition for the 2019-2020 school year and addressing the cost of college by capping tuition increases at most state colleges at 3 percent, below inflation. 
+- Froze college tuition for the 2019-2020 school year and addressing the cost of college by capping tuition increases at most state colleges at 3 percent, below inflation.
 - Increased opportunities for high school students to take tuition-free college courses and earn college credit, helping them get ahead on their education and saving them thousands of dollars in tuition costs.  
 
 #### FREEDOMS
+
 Expanding our freedoms.
 Governor Polis is focused on expanding opportunities so that every Coloradan can live the life they want, protecting our right to choose, our right to marry who we love and our choices on how we raise and educate our kids.
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative  J. Luis Correa  of California. Contact information for J. Luis Correa  includes email address, phone number, and mailing address.
 image: correa-j-luis.jpeg
 video: 
- url: /usa/california/correa-j-luis/
+url: /usa/california/correa-j-luis/
 weight: 1
 layout: course_home
 

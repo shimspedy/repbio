@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Christopher Murphyof Connecticut. Contact information for Christopher Murphy includes email address, phone number, and mailing address. 
 image: chris-murphy.jpg
 video: 
- url: /usa/connecticut/chris-murphy/
+url: /usa/connecticut/chris-murphy/
 weight: 1
 layout: course_home
 

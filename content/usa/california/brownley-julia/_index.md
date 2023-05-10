@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Brownley Julia of California. Contact information for Brownley Julia includes email address, phone number, and mailing address.
 image: brownley-julia.jpeg
 video: 
- url: /usa/california/brownley-julia/
+url: /usa/california/brownley-julia/
 weight: 1
 layout: course_home
 

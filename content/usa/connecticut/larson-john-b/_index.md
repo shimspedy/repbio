@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative John B. Larson of Connecticut. Contact information for John B. Larson includes email address, phone number, and mailing address.
 image: larson-john-b.jpeg
 video: 
- url: /usa/connecticut/larson-john-b/
+url: /usa/connecticut/larson-john-b/
 weight: 1
 layout: course_home
 
@@ -36,6 +36,7 @@ Born and raised in the federal housing project of Mayberry Village in East Hartf
 Before entering Congress, John taught history and coached football at George J. Penney High School. He was also an owner of Larson & Lysik insurance agency, where he saw firsthand the challenges many small business owners must overcome. Following in his mother's footsteps, serving on the East Hartford Board of Education and the East Hartford Town Council. In 1982, he was elected to the Connecticut State Senate, beginning a 12-year tenure representing the 3rd Senate District until 1995. Larson served as Senate President Pro Tempore for eight years from 1987 to 1995.
 
 #### Commonsense Solutions for Connecticut
+
 During his tenure in the Connecticut State Senate, John authored and passed the nation's first Family Medical Leave Act. It would later serve as the model for a national law. As one of eight children raised by working parents, John knew how critical it was for working families to get the support they needed. No parent should ever have to choose between their job and their child. That's why John supports expanding his original vision and providing paid family leave.
 
 First elected to Congress in 1998, John swiftly established himself as a leader and consensus builder. As the Hartford Courant has said, "in a badly polarized Congress, John is more than willing to work with Republicans to get something done." John won an important victory on research and development, and righted a grave wrong in our tax code for those who have been wrongfully convicted of crimes.
@@ -47,6 +48,7 @@ John knows manufacturing is the lifeblood of Connecticut's First District—than
 John formerly served on the Armed Services Committee, Science Committee, and as Ranking Member of the House Administration Committee. As a senior leader in the House Democratic Caucus, John was named chairman of the Task Force on Election Reform—created to develop reforms to take big money out of politics and address flaws in the electoral system. He continues to champion much-needed reforms to address the impact of Citizens United and the gutting of the Voting Rights Act.
 
 #### Taking a Stand
+
 Change doesn't come swiftly to Washington, but John knows some things are too important to delay. As the nation continues to battle an epidemic of gun violence, John has called on Congress to vote on bipartisan reforms most Americans overwhelmingly support. He considers it unconscionable that even in the light of tragedies like Sandy Hook and the high levels of gun violence in urban centers like Hartford, Congress has yet to even hold a vote. Frustrated by the continues silence in Congress while Americans were crying out for action, John helped organize the historic sit-in on the floor of the House of Representatives.
 
  

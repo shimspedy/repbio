@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Ted Lieu of California. Contact information for Ted Lieu includes email address, phone number, and mailing address.
 image: lieu-ted.jpeg
 video: 
- url: /usa/california/lieu-ted/
+url: /usa/california/lieu-ted/
 weight: 1
 layout: course_home
 

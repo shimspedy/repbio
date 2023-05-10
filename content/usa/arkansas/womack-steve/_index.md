@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Steve Womack of Arkansas. Contact information for Steve Womack includes email address, phone number, and mailing address.
 image: womack-steve.jpeg
 video: 
- url: /usa/arkansas/womack-steve/
+url: /usa/arkansas/womack-steve/
 weight: 1
 layout: course_home
 

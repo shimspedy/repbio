@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Eric A. Rick Crawford of Arkansas. Contact information for Eric A. Rick Crawford includes email address, phone number, and mailing address.
 image: crawford-rick.jpeg
 video: 
- url: /usa/arkansas/crawford-rick/
+url: /usa/arkansas/crawford-rick/
 weight: 1
 layout: course_home
 

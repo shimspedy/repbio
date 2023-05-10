@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative  John Garamendi of California. Contact information for John Garamendi includes email address, phone number, and mailing address.
 image: garamendi-john.jpeg
 video: 
- url: /usa/california/garamendi-john/
+url: /usa/california/garamendi-john/
 weight: 1
 layout: course_home
 

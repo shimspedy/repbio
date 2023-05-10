@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Alex Padilla of California. Contact information for Alex Padilla includes email address, phone number, and mailing address.
 image: alex-padilla.jpg
 video: 
- url: /usa/california/alex-padilla/
+url: /usa/california/alex-padilla/
 weight: 1
 layout: course_home
 

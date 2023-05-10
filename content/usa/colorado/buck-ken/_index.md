@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative  Ken Buck of Colorado. Contact information for Ken Buck includes email address, phone number, and mailing address.
 image: buck-ken.jpeg
 video: 
- url: /usa/colorado/buck-ken/
+url: /usa/colorado/buck-ken/
 weight: 1
 layout: course_home
 

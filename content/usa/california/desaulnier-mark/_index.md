@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative  Mark DeSaulnier  of California. Contact information for Mark DeSaulnier  includes email address, phone number, and mailing address.
 image: desaulnier-mark.jpeg
 video: 
- url: /usa/california/desaulnier-mark/
+url: /usa/california/desaulnier-mark/
 weight: 1
 layout: course_home
 

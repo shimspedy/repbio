@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative John S. Duarte of California. Contact information for John S. Duarte includes email address, phone number, and mailing address.
 image: john-duarte.jpeg
 video: 
- url: /usa/california/john-duarte/
+url: /usa/california/john-duarte/
 weight: 1
 layout: course_home
 

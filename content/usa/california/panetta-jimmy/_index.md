@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Jimmy Panetta of California. Contact information for Jimmy Panetta includes email address, phone number, and mailing address.
 image: panetta-jimmy.jpg
 video: 
- url: /usa/california/panetta-jimmy/
+url: /usa/california/panetta-jimmy/
 weight: 1
 layout: course_home
 

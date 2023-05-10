@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Maxine Waters of California. Contact information for Maxine Waters includes email address, phone number, and mailing address.
 image: waters-maxine.jpeg
 video: 
- url: /usa/california/waters-maxine/
+url: /usa/california/waters-maxine/
 weight: 1
 layout: course_home
 
@@ -36,6 +36,7 @@ Elected in November 2020 to her sixteenth term in the U.S. House of Representati
 Congresswoman Waters made history as the first woman and first African American Chair of the House Financial Services Committee. An integral member of Congressional Democratic Leadership, Congresswoman Waters serves as a member of the Steering & Policy Committee and is the Co-Chair of the bipartisan Congressional Task Force on Alzheimer’s Disease. She is also a member of the Congressional Progressive Caucus, and member and past chair of the Congressional Black Caucus.
 
 #### Legislative Leadership
+
 Throughout her more than 40 years of public service, Maxine Waters has been on the cutting edge, tackling difficult and often controversial issues. She has combined her strong legislative and public policy acumen and high visibility in Democratic Party activities with an unusual ability to do grassroots organizing.
 
 Prior to her election to the House of Representatives in 1990, Congresswoman Waters had already attracted national attention for her no-nonsense, no-holds-barred style of politics. During 14 years in the California State Assembly, she rose to the powerful position of Democratic Caucus Chair. She was responsible for some of the boldest legislation California has ever seen: the largest divestment of state pension funds from South Africa; landmark affirmative action legislation; the nation’s first statewide Child Abuse Prevention Training Program; the prohibition of police strip searches for nonviolent misdemeanors; and the introduction of the nation’s first plant closure law.
@@ -63,6 +64,7 @@ Congresswoman Waters has led congressional efforts to mitigate foreclosures and 
 She is lauded by African American entrepreneurs for her work to expand contracting and procurement opportunities and to strengthen businesses. Long active in the women’s movement, Rep. Waters has given encouragement and financial support to women seeking public office. Many young people, including those in the hip-hop music community, praise her for her support and understanding of young people and their efforts at self-expression. One testament to her work is the Maxine Waters Employment Preparation Center, a multimillion dollar campus providing education and employment opportunities to residents of the Watts area.
 
 #### Personal Background
+
 Maxine Waters was born in St. Louis, Missouri, the fifth of 13 children reared by a single mother. She began working at age 13 in factories and segregated restaurants. After moving to Los Angeles, she worked in garment factories and at the telephone company. She attended California State University at Los Angeles, where she earned a Bachelor of Arts degree. She began her career in public service as a teacher and a volunteer coordinator in the Head Start program.
 
 She is married to Sidney Williams, the former U.S. Ambassador to the Commonwealth of the Bahamas. She is the mother of two adult children, Edward and Karen, and has two grandchildren.

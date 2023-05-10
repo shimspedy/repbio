@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Michelle Steel of California. Contact information for Michelle Steel includes email address, phone number, and mailing address.
 image: steel-michelle.jpeg
 video: 
- url: /usa/california/steel-michelle/
+url: /usa/california/steel-michelle/
 weight: 1
 layout: course_home
 

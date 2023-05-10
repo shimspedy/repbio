@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative  Ro Khanna of California. Contact information for  Ro Khanna includes email address, phone number, and mailing address.
 image: khanna-ro.jpeg
 video: 
- url: /usa/california/khanna-ro/
+url: /usa/california/khanna-ro/
 weight: 1
 layout: course_home
 

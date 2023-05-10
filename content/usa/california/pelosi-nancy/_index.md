@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Nancy Pelosi of California. Contact information for Nancy Pelosi includes email address, phone number, and mailing address.
 image: pelosi-nancy.jpeg
 video: 
- url: /usa/california/pelosi-nancy/
+url: /usa/california/pelosi-nancy/
 weight: 1
 layout: course_home
 

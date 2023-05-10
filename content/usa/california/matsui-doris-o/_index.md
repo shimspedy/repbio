@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Doris O. Matsui of California. Contact information for Doris O. Matsui includes email address, phone number, and mailing address.
 image: matsui-doris-o.jpg
 video: 
- url: /usa/california/matsui-doris-o/
+url: /usa/california/matsui-doris-o/
 weight: 1
 layout: course_home
 

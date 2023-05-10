@@ -9,7 +9,7 @@ description: Contact Governor Gavin Newsom of California. Contact information fo
 author: contact governors
 image: gavin-newsom.png
 video:
- url: /usa/california/gavin-newsom/
+url: /usa/california/gavin-newsom/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact Congress Chu Judy of California. Contact information for Chu Judy includes email address, phone number, and mailing address.
 image: chu-judy.jpeg
 video: 
- url: /usa/california/chu-judy/
+url: /usa/california/chu-judy/
 weight: 1
 layout: course_home
 

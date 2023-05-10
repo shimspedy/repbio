@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Pete Aguilar of California. Contact information for Pete Aguilar includes email address, phone number, and mailing address.
 image: aguilar-pete.jpeg
 video: 
- url: /usa/california/aguilar-pete/
+url: /usa/california/aguilar-pete/
 weight: 1
 layout: course_home
 

@@ -7,10 +7,10 @@ subheader:
      description: Thomas Bryant Cotton is an American politician. A member of the Republican Party, he served in the U.S. House of Representatives from 2013 to 2015, and has served as the junior United States Senator from Arkansas since 2015.
 description: senator Tom Cotton of Arkansas political views.Tom Cotton (Republican Party) is a member of the U.S. Senate from Arkansas. He assumed office on January 6, 2015. His current term ends on January 3, 2027.
 image: tom-cotton.jpg
-image url: /usa/arkansas/tom-cotton/tom-cotton.jpg
+imageurl: /usa/arkansas/tom-cotton/tom-cotton.jpg
 imagedir: root
 video: 
- url: /usa/arkansas/tom-cotton/political
+url: /usa/arkansas/tom-cotton/political
 weight: 2
 layout: course_home
 

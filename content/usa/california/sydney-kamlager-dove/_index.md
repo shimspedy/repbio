@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Sydney Kamlager-Dove of California. Contact information for Sydney Kamlager-Dove includes email address, phone number, and mailing address.
 image: sydney-kamlager-dove.jpeg
 video: 
- url: /usa/california/sydney-kamlager-dove/
+url: /usa/california/sydney-kamlager-dove/
 weight: 1
 layout: course_home
 
@@ -29,17 +29,13 @@ twitter: RepKamlagerDove
 ---
 A fierce advocate for justice and families, Congresswoman Sydney Kamlager-Dove is proudly representing California’s 37th Congressional District which covers a diverse area within Los Angeles County.
 
-
 Born into a family of politically active creatives, Congresswoman Kamlager-Dove attended the University of Southern California as a political science major and member of the Zeta Phi Beta sorority. While she was at USC, the 1992 riots following the Rodney King verdict erupted. That catalytic event motivated Congresswoman Kamlager-Dove to work with Rebuild LA and the Los Angeles Festival, two nonprofit organizations that advanced job creation and public arts programs to restore broken communities.
-
 
 Congresswoman Kamlager-Dove spent her career advocating for communities and families. In 2013, Rep. Kamlager-Dove was appointed to the Los Angeles County Commission on Children and Families and in 2015, she was elected to the Los Angeles Community College Board. During her time on the board, she fought to make higher education and career training affordable and accessible to everyone, with a special focus on underserved communities and students who were previously in the foster care system or incarcerated.
 
 Congresswoman Kamlager-Dove successfully ran for California State Assembly in 2018 and California State Senate in 2021. While in the California State Legislature, Rep. Kamlager-Dove got her bill, the CRISES Act, signed into law. This law ​​provides for trained, community-led teams to respond to non-violent 911 calls – instead of police – making communities safer and saving lives.
 
-
 She also worked to establish the California Small Business COVID-19 Relief Grant Program to help small business stay afloat, coauthored the Plastic Pollution Reduction Act which would reduce single-use plastic packaging in landfills by 75%, and authored the Affordable Prescription Drug act to procure low-cost medicine for Californians.
-
 
 As a Freshman Member of the U.S. House of Representatives, Congresswoman Kamlager-Dove carries with her the experience of serving the people of Los Angeles. She will always be a strong voice for justice and our most vulnerable community members as she continues her commitment in the House of Representatives.
 
@@ -56,8 +52,5 @@ Early in her career, Sydney worked at the Social and Public Arts Resource Center
 In 2013, Sydney was appointed to the Los Angeles County Commission on Children and Families.
 
 She was elected in 2015 to the Los Angeles Community College Board, where she fought to make higher education and career training affordable and accessible to everyone, with special focus on underserved communities and students who were previously in the foster care system or incarcerated. Sydney successfully ran for State Assembly in 2018 and State Senate in 2021.
-
-
-
 
 Senator Kamlager is a member of Zeta Phi Beta Sorority and earned a B.A. in political science from USC and an M.A. in Arts Management and Public Policy from Carnegie Mellon University. She lives in View Park with her husband, Austin Dove, her two step-children, and their rescue pets.

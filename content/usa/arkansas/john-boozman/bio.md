@@ -7,10 +7,10 @@ subheader:
      description: John Nichols Boozman is an American politician serving as the senior United States senator from Arkansas, a seat that he was first elected to in 2010. A member of the Republican Party, he previously was the U.S. Representative for Arkansas's 3rd congressional district from 2001 to 2011.
 description: senator John Boozman of Arkansas biograph.  how to  Contact Senator John Boozman includes email address, phone number, and mailing address.
 image: john-boozman.jpg
-image url: /usa/arkansas/john-boozman/john-boozman.jpg
+imageurl: /usa/arkansas/john-boozman/john-boozman.jpg
 imagedir: root
 video: 
- url: /usa/arkansas/john-boozman/bio
+url: /usa/arkansas/john-boozman/bio
 weight: 2
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Barragán Nanette of California. Contact information for Barragán Nanette includes email address, phone number, and mailing address.
 image: barragán-nanette.jpeg
 video: 
- url: /usa/california/barragán-nanette/
+url: /usa/california/barragán-nanette/
 weight: 1
 layout: course_home
 

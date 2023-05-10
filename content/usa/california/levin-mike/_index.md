@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Mike Levin of California. Contact information for Mike Levin includes email address, phone number, and mailing address.
 image: levin-mike.jpeg
 video: 
- url: /usa/california/levin-mike/
+url: /usa/california/levin-mike/
 weight: 1
 layout: course_home
 

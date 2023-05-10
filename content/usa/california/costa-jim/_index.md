@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative  Jim Costa  of California. Contact information for Jim Costa  includes email address, phone number, and mailing address.
 image: costa-jim.jpeg
 video: 
- url: /usa/california/costa-jim/
+url: /usa/california/costa-jim/
 weight: 1
 layout: course_home
 

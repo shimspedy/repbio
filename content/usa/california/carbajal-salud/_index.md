@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Carbajal Salud of California. Contact information for Carbajal Salud includes email address, phone number, and mailing address.
 image: carbajal-salud.jpeg
 video: 
- url: /usa/california/carbajal-salud/
+url: /usa/california/carbajal-salud/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Joe Courtney  of Connecticut. Contact information for Joe Courtney  includes email address, phone number, and mailing address.
 image: courtney-joe.jpeg
 video: 
- url: /usa/connecticut/courtney-joe/
+url: /usa/connecticut/courtney-joe/
 weight: 1
 layout: course_home
 

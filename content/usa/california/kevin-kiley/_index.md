@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative  Kevin Kiley of California. Contact information for Kevin Kiley includes email address, phone number, and mailing address.
 image: kevin-kiley.jpeg
 video: 
- url: /usa/california/kevin-kiley/
+url: /usa/california/kevin-kiley/
 weight: 1
 layout: course_home
 

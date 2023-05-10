@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Katie Porter  of California. Contact information for Katie Porter  includes email address, phone number, and mailing address.
 image: porter-katie.jpeg
 video: 
- url: /usa/california/porter-katie/
+url: /usa/california/porter-katie/
 weight: 1
 layout: course_home
 

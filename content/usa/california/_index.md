@@ -5,7 +5,7 @@ ab: "CA"
 seo_title: "Contact California  Governors And Senators"
 description: Contact California Senators
 author: cs
- url: /usa/california/
+url: /usa/california/
 flag: seal.png
 weight: 1
 ---

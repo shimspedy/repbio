@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative   Josh Harder of California. Contact information for  Josh Harder includes email address, phone number, and mailing address.
 image: harder-josh.jpeg
 video: 
- url: /usa/california/harder-josh/
+url: /usa/california/harder-josh/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Bruce Westerman  of Arkansas. Contact information for Bruce Westerman  includes email address, phone number, and mailing address.
 image: westerman-bruce.jpeg
 video: 
- url: /usa/arkansas/westerman-bruce/
+url: /usa/arkansas/westerman-bruce/
 weight: 1
 layout: course_home
 

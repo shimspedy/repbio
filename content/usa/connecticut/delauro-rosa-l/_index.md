@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Rosa L. DeLauro of Connecticut. Contact information for Rosa L. DeLauro includes email address, phone number, and mailing address.
 image: delauro-rosa-l.jpeg
 video: 
- url: /usa/connecticut/delauro-rosa-l/
+url: /usa/connecticut/delauro-rosa-l/
 weight: 1
 layout: course_home
 
@@ -30,7 +30,8 @@ powrid:
 ---
 
 #### About Rosa
-Rosa DeLauro is the Congresswoman from Connecticut’s Third Congressional District, which stretches from the Long Island Sound and New Haven, to the Naugatuck Valley and Waterbury. Rosa serves as the Chair of the House Appropriations Committee and sits on the Democratic Steering and Policy Committee, and she is the Chair of the Labor, Health and Human Services, and Education Appropriations Subcommittee, where she oversees our nation’s investments in education, health, and employment. 
+
+Rosa DeLauro is the Congresswoman from Connecticut’s Third Congressional District, which stretches from the Long Island Sound and New Haven, to the Naugatuck Valley and Waterbury. Rosa serves as the Chair of the House Appropriations Committee and sits on the Democratic Steering and Policy Committee, and she is the Chair of the Labor, Health and Human Services, and Education Appropriations Subcommittee, where she oversees our nation’s investments in education, health, and employment.
 
 At the core of Rosa’s work is her fight for America’s working families. Rosa believes that we must raise the nation’s minimum wage, give all employees access to paid sick days, allow employees to take paid family and medical leave, and ensure equal pay for equal work. Every day, Rosa fights for legislation that would give all working families an opportunity to succeed.
 
@@ -48,4 +49,4 @@ Rosa belongs to 62 House caucus groups and is the co-chair of the Baby Caucus, t
 
 Soon after earning degrees from Marymount College and Columbia University, Rosa followed her parents’ footsteps into public service, serving as the first Executive Director of EMILY's List, a national organization dedicated to increasing the number of women in elected office; Executive Director of Countdown '87, the national campaign that successfully stopped U.S. military aid to the Nicaraguan Contras; and as Chief of Staff to U.S. Senator Christopher Dodd. In 1990, Rosa was elected to the House of Representatives, and she has served as the Congresswoman from Connecticut’s Third Congressional District ever since.
 
-Rosa is married to Stanley Greenberg. Their children—Anna, Kathryn, and Jonathan Greenberg—all are grown and pursuing careers. Rosa and Stan have six grandchildren, Rigby, Teo, Sadie, Jasper, Paola and Gus. 
+Rosa is married to Stanley Greenberg. Their children—Anna, Kathryn, and Jonathan Greenberg—all are grown and pursuing careers. Rosa and Stan have six grandchildren, Rigby, Teo, Sadie, Jasper, Paola and Gus.

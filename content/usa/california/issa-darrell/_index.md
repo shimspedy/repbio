@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative  Darrell E. Issa of California. Contact information for Darrell E. Issa includes email address, phone number, and mailing address.
 image: issa-darrell.jpeg
 video: 
- url: /usa/california/issa-darrell/
+url: /usa/california/issa-darrell/
 weight: 1
 layout: course_home
 

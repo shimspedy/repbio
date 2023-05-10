@@ -8,7 +8,7 @@ subheader:
 description: Contact senator John Boozman of Arkansas. Contact information for John Boozman includes email address, phone number, and mailing address.
 image: john-boozman.jpg
 video: 
- url: /usa/arkansas/john-boozman/
+url: /usa/arkansas/john-boozman/
 weight: 1
 layout: course_home
 

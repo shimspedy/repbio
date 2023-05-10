@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Lauren Boebert  of Colorado. Contact information for Lauren Boebert  includes email address, phone number, and mailing address.
 image: boebert-lauren.jpeg
 video: 
- url: /usa/colorado/boebert-lauren/
+url: /usa/colorado/boebert-lauren/
 weight: 1
 layout: course_home
 

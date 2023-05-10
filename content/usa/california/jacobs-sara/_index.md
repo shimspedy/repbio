@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative  Sara Jacobs of California. Contact information for Sara Jacobs includes email address, phone number, and mailing address.
 image: jacobs-sara.jpeg
 video: 
- url: /usa/california/jacobs-sara/
+url: /usa/california/jacobs-sara/
 weight: 1
 layout: course_home
 
