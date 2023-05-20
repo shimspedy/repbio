@@ -6,7 +6,7 @@ subheader:
      greeting: Contact representative James Bezan
      description: James Bezan, born on May 19, 1965, is a Canadian Conservative politician known for his significant contributions in the House of Commons of Canada. He has represented the riding of Selkirk—Interlake—Eastman (formerly Selkirk—Interlake) since 2004. Bezan currently holds the position of Conservative Shadow Minister for National Defence.
 description: Contact representative James Bezan of British Columbia. Contact information for James Bezan includes email address, phone number, and mailing address.
-image: james-bezan.jpeg
+image: bezan-james.jpg
 video:
 url:  /canada/manitoba/james-bezan
 weight: 1
