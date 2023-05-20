@@ -4,7 +4,7 @@ title: "Jenny Kwan"
 seo_title: "contact representative Jenny Kwan"
 subheader:
      greeting: Contact representative Jenny Kwan
-     description: Jenny Wai Ching Kwan MP (Chinese: 關慧貞; born 1967) is a Canadian politician and member of Parliament (MP) for Vancouver East. She has been an influential figure in Canadian politics, representing the New Democratic Party (NDP). Kwan's journey in public service began in 1993 when she was elected to the Vancouver City Council, making her the youngest-ever council member at the age of 26. Her dedication and commitment to serving her constituents led her to become a prominent political figure in British Columbia.
+     description: Jenny Wai Ching Kwan MP is a Canadian politician and member of Parliament (MP) for Vancouver East. She has been an influential figure in Canadian politics, representing the New Democratic Party (NDP). Kwan's journey in public service began in 1993 when she was elected to the Vancouver City Council, making her the youngest-ever council member at the age of 26. Her dedication and commitment to serving her constituents led her to become a prominent political figure in British Columbia.
 description: Contact representative Jenny Kwan of British Columbia. Contact information for Jenny Kwan includes email address, phone number, and mailing address.
 image: jenny-kwan.jpeg
 video:
