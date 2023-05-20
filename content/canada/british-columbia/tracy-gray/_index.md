@@ -6,7 +6,7 @@ subheader:
      greeting: Contact representative Tracy Gray
      description: Tracy Gray is a Canadian politician and member of the Conservative Party of Canada who has dedicated her career to public service. She was elected to represent the riding of Kelowna—Lake Country in the House of Commons of Canada in both the 2019 and 2021 Canadian federal elections. With a passion for her community and a drive for positive change, Gray has been an active voice in Parliament.
 description: Contact representative Tracy Gray of British Columbia. Contact information for Tracy Gray includes email address, phone number, and mailing address.
-image: tracy-gray.jpeg
+image: tracy-gray.jpg
 video:
 url:  /canada/british-columbia/tracy-gray
 weight: 1
