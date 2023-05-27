@@ -4,7 +4,7 @@ title: "Clifford Small"
 seo_title: "contact representative Clifford Small"
 subheader:
      greeting: Contact representative Clifford Small
-     description: Biography: Clifford Small, a Canadian politician, currently serves as the Member of Parliament for Coast of Bays—Central—Notre Dame. He achieved this position after a closely contested victory over Liberal incumbent Scott Simms in the 2021 general election, securing a narrow margin of 264 votes.
+     description:  Clifford Small, a Canadian politician, currently serves as the Member of Parliament for Coast of Bays—Central—Notre Dame. He achieved this position after a closely contested victory over Liberal incumbent Scott Simms in the 2021 general election, securing a narrow margin of 264 votes.
 description: Contact representative Clifford Small of Newfoundland and Labrador. Contact information for Clifford Small includes email address, phone number, and mailing address.
 image: clifford-small.jpeg
 video:
@@ -35,7 +35,7 @@ twitter:
 facebook:  
 ---
 
-Biography: Clifford Small, a Canadian politician, currently serves as the Member of Parliament for Coast of Bays—Central—Notre Dame. He achieved this position after a closely contested victory over Liberal incumbent Scott Simms in the 2021 general election, securing a narrow margin of 264 votes. As a dedicated member of the Conservative Party of Canada, Small holds the distinction of being the first Conservative MP from Newfoundland and Labrador since the resignation of Peter Penashue in 2013. Moreover, his election marked a significant milestone for the Conservative Party in Newfoundland, as he became the first Conservative MP elected in the region since 2006.
+Clifford Small, a Canadian politician, currently serves as the Member of Parliament for Coast of Bays—Central—Notre Dame. He achieved this position after a closely contested victory over Liberal incumbent Scott Simms in the 2021 general election, securing a narrow margin of 264 votes. As a dedicated member of the Conservative Party of Canada, Small holds the distinction of being the first Conservative MP from Newfoundland and Labrador since the resignation of Peter Penashue in 2013. Moreover, his election marked a significant milestone for the Conservative Party in Newfoundland, as he became the first Conservative MP elected in the region since 2006.
 
 Recognizing his capabilities and commitment, Erin O'Toole appointed Small as the Shadow Minister for Atlantic Canada Opportunities Agency on November 9, 2021 [5]. Demonstrating his political acumen, Small endorsed Pierre Poilievre during the 2022 Conservative Party of Canada leadership election. In recognition of his dedication, Poilievre appointed him as the Shadow Minister for Fisheries, Oceans, and the Canadian Coast Guard in October 2022.
 

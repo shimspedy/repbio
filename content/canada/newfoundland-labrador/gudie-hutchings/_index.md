@@ -4,7 +4,7 @@ title: "Gudie Hutchings"
 seo_title: "contact representative Gudie Hutchings"
 subheader:
      greeting: Contact representative Gudie Hutchings
-     description: Gudrid Ida "Gudie" Hutchings, born on September 1, 1959, in Corner Brook, is a Canadian politician and member of the Liberal Party. Since October 26, 2021, she has held the position of Minister of Rural Economic Development. Hutchings has been representing the Long Range Mountains constituency in the House of Commons since the 2015 election.
+     description: Gudrid Ida "Gudie" Hutchings, born on September 1, 1959, in Corner Brook, is a Canadian politician and member of the Liberal Party. 
 description: Contact representative Gudie Hutchings of Newfoundland and Labrador. Contact information for Gudie Hutchings includes email address, phone number, and mailing address.
 image: gudie-hutchings.jpeg
 video:
