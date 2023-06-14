@@ -4,7 +4,7 @@ title: "Ahmed Hussen"
 seo_title: "contact representative Ahmed Hussen"
 subheader:
      greeting: Contact representative Ahmed Hussen
-     description: Ahmed Hussen PC MP (Somali: Axmed Xuseen; born 1976) is a Canadian lawyer and politician.
+     description: Ahmed Hussen PC MP  is a Canadian lawyer and politician.
 description: Contact representative Ahmed Hussen of Ontario. Contact information for Ahmed Hussen includes email address, phone number, and mailing address.
 image: ahmed-hussen.jpeg
 video:
@@ -32,7 +32,7 @@ twitter: HonAhmedHussen
 facebook: HonAhmedHussen
 ---
 
-Ahmed Hussen PC MP (Somali: Axmed Xuseen; born 1976) is a Canadian lawyer and politician. He has held various prominent positions in the Canadian government and is known for his contributions to housing, diversity, and inclusion. Hussen has been serving as the Minister of Housing and Diversity and Inclusion since October 26, 2021. He is a member of the Liberal Party and represents the riding of York South—Weston in the House of Commons.
+Ahmed Hussen PC MP  is a Canadian lawyer and politician. He has held various prominent positions in the Canadian government and is known for his contributions to housing, diversity, and inclusion. Hussen has been serving as the Minister of Housing and Diversity and Inclusion since October 26, 2021. He is a member of the Liberal Party and represents the riding of York South—Weston in the House of Commons.
 
 Hussen was born and raised in Mogadishu, Somalia, where he experienced the hardships of the civil war. At the age of 15, he and his family were forced to flee Somalia, leaving everything behind. They sought refuge in Kenya before eventually settling in Canada as refugees. Hussen arrived in Toronto in 1994 and began building a new life for himself.
 

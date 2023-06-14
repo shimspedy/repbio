@@ -21,7 +21,7 @@ inoffice: current
 born: 1989
 elected: 2021
 mailing1: Ottawa, Ontario, Canada K1A 0A6
-mailing2: 111 Peter Street Suite: 700 Toronto, Ontario M5V 2H1
+mailing2: 111 Peter Street Suite 700 Toronto, Ontario M5V 2H1
 phone1: 613-992-2352
 phone2: 416-533-2710
 fax1: 613-992-6301
